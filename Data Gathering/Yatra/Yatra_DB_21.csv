@@ -1,0 +1,155 @@
+,Company,Flight Number,From,From Date,From Time,To,To Date,To Time,Duration,Number of stop,Stop place,Price
+0,Air India Express,IX-1032/IX-2932,New Delhi(DEL),21 Sep,05:45,Bangalore(BLR),21 Sep,15:25,9h 40m ,1,Guwahati,8584
+1,Air India Express,IX-5975,New Delhi(DEL),21 Sep,21:00,Bangalore(BLR),21 Sep,23:55,2h 55m ,0,-,8642
+2,Air India Express,IX-1070,New Delhi(DEL),21 Sep,18:20,Bangalore(BLR),21 Sep,21:15,2h 55m ,0,-,8792
+3,Air India Express,IX-1046/IX-1244,New Delhi(DEL),21 Sep,06:25,Bangalore(BLR),21 Sep,12:00,5h 35m ,1,Ranchi,8794
+4,Air India Express,IX-1046/IX-1530,New Delhi(DEL),21 Sep,06:25,Bangalore(BLR),21 Sep,14:40,8h 15m ,1,Ranchi,8794
+5,Air India Express,IX-1054/IX-2176,New Delhi(DEL),21 Sep,12:05,Bangalore(BLR),21 Sep,22:10,10h 05m ,1,Ranchi,8794
+6,Akasa Air,QP-1812,New Delhi(DEL),21 Sep,22:55,Bangalore(BLR),22 Sep,01:45,2h 50m ,0,-,8829
+7,IndiGo,6E-2314,New Delhi(DEL),21 Sep,05:45,Bangalore(BLR),21 Sep,08:40,2h 55m ,0,-,8829
+8,IndiGo,6E-861,New Delhi(DEL),21 Sep,19:30,Bangalore(BLR),21 Sep,22:25,2h 55m ,0,-,8829
+9,IndiGo,6E-6515,New Delhi(DEL),21 Sep,20:45,Bangalore(BLR),21 Sep,23:40,2h 55m ,0,-,8829
+10,Akasa Air,QP-1308,New Delhi(DEL),21 Sep,20:55,Bangalore(BLR),21 Sep,23:50,2h 55m ,0,-,8829
+11,Akasa Air,QP-1350,New Delhi(DEL),21 Sep,21:55,Bangalore(BLR),22 Sep,00:50,2h 55m ,0,-,8829
+12,IndiGo,6E-846,New Delhi(DEL),21 Sep,22:00,Bangalore(BLR),22 Sep,00:55,2h 55m ,0,-,8829
+13,IndiGo,6E-871,New Delhi(DEL),21 Sep,23:30,Bangalore(BLR),22 Sep,02:25,2h 55m ,0,-,8829
+14,Akasa Air,QP-1824,New Delhi(DEL),21 Sep,20:10,Bangalore(BLR),21 Sep,23:10,3h 00m ,0,-,8829
+15,IndiGo,6E-2456,Noida(DXN),21 Sep,14:55,Bangalore(BLR),21 Sep,17:30,2h 35m ,0,-,9284
+16,IndiGo,6E-811,New Delhi(DEL),21 Sep,18:20,Bangalore(BLR),21 Sep,21:10,2h 50m ,0,-,9286
+17,IndiGo,6E-820,New Delhi(DEL),21 Sep,03:00,Bangalore(BLR),21 Sep,05:55,2h 55m ,0,-,9286
+18,IndiGo,6E-810,New Delhi(DEL),21 Sep,07:05,Bangalore(BLR),21 Sep,10:00,2h 55m ,0,-,9286
+19,IndiGo,6E-837,New Delhi(DEL),21 Sep,17:00,Bangalore(BLR),21 Sep,19:55,2h 55m ,0,-,9286
+20,Air India,AI-2809,New Delhi(DEL),21 Sep,19:30,Bangalore(BLR),21 Sep,22:20,2h 50m ,0,-,9300
+21,Air India,AI-2803,New Delhi(DEL),21 Sep,06:30,Bangalore(BLR),21 Sep,09:25,2h 55m ,0,-,9300
+22,Air India,AI-2815,New Delhi(DEL),21 Sep,07:00,Bangalore(BLR),21 Sep,09:55,2h 55m ,0,-,9300
+23,Air India,AI-2512,New Delhi(DEL),21 Sep,19:00,Bangalore(BLR),21 Sep,21:55,2h 55m ,0,-,9300
+24,Air India,AI-2412,New Delhi(DEL),21 Sep,21:30,Bangalore(BLR),22 Sep,00:25,2h 55m ,0,-,9300
+25,Air India Express,IX-1165/IX-1503,New Delhi(DEL),21 Sep,05:45,Bangalore(BLR),21 Sep,12:05,6h 20m ,1,Lucknow,9374
+26,Akasa Air,QP-1822,New Delhi(DEL),21 Sep,16:40,Bangalore(BLR),21 Sep,19:40,3h 00m ,0,-,9426
+27,Air India,AI-2817,New Delhi(DEL),21 Sep,16:30,Bangalore(BLR),21 Sep,19:15,2h 45m ,0,-,9756
+28,Air India,AI-2487,New Delhi(DEL),21 Sep,18:30,Bangalore(BLR),21 Sep,21:25,2h 55m ,0,-,9756
+29,IndiGo,6E-873,New Delhi(DEL),21 Sep,08:20,Bangalore(BLR),21 Sep,11:10,2h 50m ,0,-,9771
+30,IndiGo,6E-826,New Delhi(DEL),21 Sep,09:30,Bangalore(BLR),21 Sep,12:25,2h 55m ,0,-,9771
+31,IndiGo,6E-842,New Delhi(DEL),21 Sep,10:45,Bangalore(BLR),21 Sep,13:40,2h 55m ,0,-,9771
+32,IndiGo,6E-828,New Delhi(DEL),21 Sep,14:30,Bangalore(BLR),21 Sep,17:25,2h 55m ,0,-,9771
+33,IndiGo,6E-880,New Delhi(DEL),21 Sep,15:45,Bangalore(BLR),21 Sep,18:40,2h 55m ,0,-,9771
+34,IndiGo,6E-850,New Delhi(DEL),21 Sep,12:20,Bangalore(BLR),21 Sep,15:20,3h 00m ,0,-,9771
+35,Air India,AI-427,New Delhi(DEL),21 Sep,08:30,Bangalore(BLR),21 Sep,11:20,2h 50m ,0,-,9921
+36,IndiGo,6E-7646/6E-6142,Noida(DXN),21 Sep,06:15,Bangalore(BLR),21 Sep,11:00,4h 45m ,1,Jaipur,9936
+37,IndiGo,6E-7642/6E-556,Noida(DXN),21 Sep,15:45,Bangalore(BLR),21 Sep,21:35,5h 50m ,1,Jaipur,9936
+38,IndiGo,6E-717/6E-6505,New Delhi(DEL),21 Sep,17:55,Bangalore(BLR),21 Sep,22:45,4h 50m ,1,Hyderabad,9946
+39,IndiGo,6E-6217/6E-285,New Delhi(DEL),21 Sep,16:15,Bangalore(BLR),21 Sep,21:20,5h 05m ,1,Hyderabad,9946
+40,IndiGo,6E-704/6E-413,New Delhi(DEL),21 Sep,02:25,Bangalore(BLR),21 Sep,07:40,5h 15m ,1,Hyderabad,9946
+41,IndiGo,6E-6212/6E-6783,New Delhi(DEL),21 Sep,14:45,Bangalore(BLR),21 Sep,20:05,5h 20m ,1,Hyderabad,9946
+42,IndiGo,6E-6282/6E-6417,New Delhi(DEL),21 Sep,13:30,Bangalore(BLR),21 Sep,19:05,5h 35m ,1,Hyderabad,9946
+43,IndiGo,6E-6293/6E-6405,New Delhi(DEL),21 Sep,09:55,Bangalore(BLR),21 Sep,15:50,5h 55m ,1,Hyderabad,9946
+44,Air India,AI-2409,New Delhi(DEL),21 Sep,06:00,Bangalore(BLR),21 Sep,08:55,2h 55m ,0,-,10004
+45,IndiGo,6E-5073/6E-481,New Delhi(DEL),21 Sep,17:05,Bangalore(BLR),21 Sep,22:05,5h 00m ,1,Ahmedabad,10077
+46,IndiGo,6E-6179/6E-499,New Delhi(DEL),21 Sep,18:30,Bangalore(BLR),21 Sep,23:35,5h 05m ,1,Varanasi,10077
+47,IndiGo,6E-5119/6E-823,New Delhi(DEL),21 Sep,05:10,Bangalore(BLR),21 Sep,10:45,5h 35m ,1,Ahmedabad,10077
+48,IndiGo,6E-734/6E-979,New Delhi(DEL),21 Sep,16:20,Bangalore(BLR),21 Sep,21:55,5h 35m ,1,Raipur,10077
+49,IndiGo,6E-931/6E-996,New Delhi(DEL),21 Sep,19:35,Bangalore(BLR),22 Sep,01:10,5h 35m ,1,Ahmedabad,10077
+50,IndiGo,6E-6673/6E-361,New Delhi(DEL),21 Sep,21:15,Bangalore(BLR),22 Sep,02:55,5h 40m ,1,Pune,10077
+51,IndiGo,6E-2557/6E-5034,New Delhi(DEL),21 Sep,15:20,Bangalore(BLR),21 Sep,21:05,5h 45m ,1,Surat,10077
+52,IndiGo,6E-6459/6E-406,New Delhi(DEL),21 Sep,05:55,Bangalore(BLR),21 Sep,11:50,5h 55m ,1,Raipur,10077
+53,IndiGo,6E-2618/6E-6564,New Delhi(DEL),21 Sep,23:00,Bangalore(BLR),22 Sep,04:55,5h 55m ,1,Pune,10077
+54,IndiGo,6E-950/6E-796,New Delhi(DEL),21 Sep,18:15,Bangalore(BLR),21 Sep,23:00,4h 45m ,1,Chennai,10156
+55,IndiGo,6E-6091/6E-189,New Delhi(DEL),21 Sep,15:15,Bangalore(BLR),21 Sep,20:10,4h 55m ,1,Chennai,10156
+56,IndiGo,6E-6632/6E-593,New Delhi(DEL),21 Sep,17:50,Bangalore(BLR),21 Sep,23:00,5h 10m ,1,Chandigarh,10156
+57,IndiGo,6E-2151/6E-906,New Delhi(DEL),21 Sep,19:45,Bangalore(BLR),22 Sep,01:00,5h 15m ,1,Lucknow,10156
+58,IndiGo,6E-6115/6E-365,New Delhi(DEL),21 Sep,13:10,Bangalore(BLR),21 Sep,18:45,5h 35m ,1,Chennai,10156
+59,IndiGo,6E-5038/6E-429,New Delhi(DEL),21 Sep,14:00,Bangalore(BLR),21 Sep,19:40,5h 40m ,1,Chandigarh,10156
+60,IndiGo,6E-5033/6E-556,New Delhi(DEL),21 Sep,15:50,Bangalore(BLR),21 Sep,21:35,5h 45m ,1,Jaipur,10156
+61,Air India,AI-2653,New Delhi(DEL),21 Sep,04:30,Bangalore(BLR),21 Sep,07:20,2h 50m ,0,-,10169
+62,Air India,AI-2664,New Delhi(DEL),21 Sep,15:50,Bangalore(BLR),21 Sep,18:45,2h 55m ,0,-,10242
+63,IndiGo,6E-176,New Delhi(DEL),21 Sep,13:15,Bangalore(BLR),21 Sep,16:10,2h 55m ,0,-,10285
+64,IndiGo,6E-6497/6E-6452,New Delhi(DEL),21 Sep,18:40,Bangalore(BLR),22 Sep,00:30,5h 50m ,1,Patna,10287
+65,IndiGo,6E-5001/6E-472,New Delhi(DEL),21 Sep,17:10,Bangalore(BLR),21 Sep,22:50,5h 40m ,1,Kochi,10314
+66,IndiGo,6E-2491/6E-6783,Noida(DXN),21 Sep,15:15,Bangalore(BLR),21 Sep,20:05,4h 50m ,1,Hyderabad,10372
+67,Air India,AI-1710/IX-9546,New Delhi(DEL),21 Sep,18:35,Bangalore(BLR),22 Sep,01:05,6h 30m ,1,Lucknow,10399
+68,Air India,AI-1717/IX-9546,New Delhi(DEL),21 Sep,14:20,Bangalore(BLR),22 Sep,01:05,10h 45m ,1,Lucknow,10399
+69,Air India,AI-2569/IX-9748,New Delhi(DEL),21 Sep,20:25,Bangalore(BLR),22 Sep,12:05,15h 40m ,1,Lucknow,10399
+70,Air India,AI-1710/IX-9748,New Delhi(DEL),21 Sep,18:35,Bangalore(BLR),22 Sep,12:05,17h 30m ,1,Lucknow,10399
+71,Air India,AI-1717/IX-9748,New Delhi(DEL),21 Sep,14:20,Bangalore(BLR),22 Sep,12:05,21h 45m ,1,Lucknow,10399
+72,Air India,AI-2415,New Delhi(DEL),21 Sep,09:30,Bangalore(BLR),21 Sep,12:25,2h 55m ,0,-,10416
+73,Air India Express,IX-1617/IX-1520,New Delhi(DEL),21 Sep,11:50,Bangalore(BLR),21 Sep,18:30,6h 40m ,1,Lucknow,10429
+74,IndiGo,6E-513/6E-235,New Delhi(DEL),21 Sep,08:30,Bangalore(BLR),21 Sep,14:25,5h 55m ,1,Kolkata,10497
+75,IndiGo,6E-5191/6E-496,New Delhi(DEL),21 Sep,05:00,Bangalore(BLR),21 Sep,11:00,6h 00m ,1,Kolkata,10497
+76,Air India,AI-2485,New Delhi(DEL),21 Sep,10:30,Bangalore(BLR),21 Sep,13:20,2h 50m ,0,-,10591
+77,Air India,AI-2819,New Delhi(DEL),21 Sep,15:00,Bangalore(BLR),21 Sep,17:55,2h 55m ,0,-,10591
+78,Air India,AI-2417,New Delhi(DEL),21 Sep,13:00,Bangalore(BLR),21 Sep,15:55,2h 55m ,0,-,10678
+79,Air India Express,IX-1812/IX-2115,New Delhi(DEL),21 Sep,11:15,Bangalore(BLR),21 Sep,18:50,7h 35m ,1,Kochi,10686
+80,Air India,AI-2499/IX-9546,New Delhi(DEL),21 Sep,05:55,Bangalore(BLR),22 Sep,01:05,19h 10m ,1,Lucknow,10830
+81,IndiGo,6E-2579/6E-189,Ghaziabad(HDO),21 Sep,14:10,Bangalore(BLR),21 Sep,20:10,6h 00m ,1,Chennai,10875
+82,Air India,AI-2499/IX-9748,New Delhi(DEL),21 Sep,05:55,Bangalore(BLR),21 Sep,12:05,6h 10m ,1,Lucknow,11040
+83,Air India Express,IX-1980/IX-1168,New Delhi(DEL),21 Sep,09:55,Bangalore(BLR),21 Sep,18:50,8h 55m ,1,Srinagar,11100
+84,IndiGo,6E-7653/6E-6466,Noida(DXN),21 Sep,17:20,Bangalore(BLR),21 Sep,22:00,4h 40m ,1,Bhopal,11182
+85,Air India,AI-437/IX-9603,New Delhi(DEL),21 Sep,09:20,Bangalore(BLR),21 Sep,16:00,6h 40m ,1,Dehradun,11390
+86,Air India,AI-1730/IX-9811,New Delhi(DEL),21 Sep,19:10,Bangalore(BLR),22 Sep,01:40,6h 30m ,1,Pune,11402
+87,Air India,AI-2547/IX-9811,New Delhi(DEL),21 Sep,17:40,Bangalore(BLR),22 Sep,01:40,8h 00m ,1,Pune,11402
+88,Air India,AI-2971/IX-9811,New Delhi(DEL),21 Sep,16:00,Bangalore(BLR),22 Sep,01:40,9h 40m ,1,Pune,11402
+89,Air India,AI-2469/IX-9811,New Delhi(DEL),21 Sep,04:45,Bangalore(BLR),22 Sep,01:40,20h 55m ,1,Pune,11402
+90,Air India,AI-2609/IX-9931,New Delhi(DEL),21 Sep,23:50,Bangalore(BLR),23 Sep,01:40,25h 50m ,1,Pune,11402
+91,Air India,AI-2761/IX-9707,New Delhi(DEL),21 Sep,16:25,Bangalore(BLR),22 Sep,15:50,23h 25m ,1,Jaipur,11432
+92,IndiGo,6E-6433/6E-6432,New Delhi(DEL),21 Sep,16:30,Bangalore(BLR),21 Sep,21:20,4h 50m ,1,Nagpur,11486
+93,Air India,AI-2499/IX-9474,New Delhi(DEL),21 Sep,05:55,Bangalore(BLR),21 Sep,18:30,12h 35m ,1,Lucknow,11670
+94,Air India,AI-2609/IX-9809,New Delhi(DEL),21 Sep,23:50,Bangalore(BLR),22 Sep,16:40,16h 50m ,1,Pune,11733
+95,IndiGo,6E-2277/6E-633,New Delhi(DEL),21 Sep,10:25,Bangalore(BLR),21 Sep,15:45,5h 20m ,1,Goa,11775
+96,Air India,AI-2973/IX-9811,New Delhi(DEL),21 Sep,20:50,Bangalore(BLR),22 Sep,01:40,4h 50m ,1,Pune,11885
+97,Air India,AI-1797/IX-9811,New Delhi(DEL),21 Sep,05:45,Bangalore(BLR),22 Sep,01:40,19h 55m ,1,Pune,11885
+98,Air India,AI-2469/IX-9805,New Delhi(DEL),21 Sep,04:45,Bangalore(BLR),21 Sep,22:25,17h 40m ,1,Pune,12114
+99,Air India,AI-437/IX-9411,New Delhi(DEL),21 Sep,09:20,Bangalore(BLR),21 Sep,23:35,14h 15m ,1,Dehradun,12125
+100,Air India,AI-2532/IX-9491,New Delhi(DEL),21 Sep,11:20,Bangalore(BLR),21 Sep,17:30,6h 10m ,1,Chandigarh,12128
+101,Air India,AI-1742/IX-9489,New Delhi(DEL),21 Sep,20:00,Bangalore(BLR),22 Sep,09:55,13h 55m ,1,Chandigarh,12128
+102,Air India,AI-2973/IX-9809,New Delhi(DEL),21 Sep,20:50,Bangalore(BLR),22 Sep,16:40,19h 50m ,1,Pune,12216
+103,Air India Express,IX-1038/IX-1640,New Delhi(DEL),21 Sep,17:35,Bangalore(BLR),21 Sep,23:00,5h 25m ,1,Mumbai,12380
+104,Air India,AI-2971/IX-9805,New Delhi(DEL),21 Sep,16:00,Bangalore(BLR),21 Sep,22:25,6h 25m ,1,Pune,12549
+105,Air India,AI-2469/IX-9809,New Delhi(DEL),21 Sep,04:45,Bangalore(BLR),21 Sep,16:40,11h 55m ,1,Pune,12549
+106,Air India,AI-2469/IX-9807,New Delhi(DEL),21 Sep,04:45,Bangalore(BLR),21 Sep,20:40,15h 55m ,1,Pune,12549
+107,Air India,AI-1797/IX-9805,New Delhi(DEL),21 Sep,05:45,Bangalore(BLR),21 Sep,22:25,16h 40m ,1,Pune,12597
+108,Air India,AI-1735/IX-9811,New Delhi(DEL),21 Sep,13:00,Bangalore(BLR),22 Sep,01:40,12h 40m ,1,Pune,12628
+109,Air India Express,IX-1001/IX-2963,New Delhi(DEL),21 Sep,09:00,Bangalore(BLR),21 Sep,15:25,6h 25m ,1,Bagdogra,12669
+110,IndiGo,6E-2349/6E-6532,New Delhi(DEL),21 Sep,10:55,Bangalore(BLR),21 Sep,16:40,5h 45m ,1,Prayagraj,12740
+111,Air India,AI-2879/IX-9565,New Delhi(DEL),21 Sep,18:00,Bangalore(BLR),21 Sep,22:35,4h 35m ,1,Hyderabad,12826
+112,Air India,AI-2519/IX-9565,New Delhi(DEL),21 Sep,15:30,Bangalore(BLR),21 Sep,22:35,7h 05m ,1,Hyderabad,12826
+113,Air India,AI-2465/IX-9565,New Delhi(DEL),21 Sep,14:30,Bangalore(BLR),21 Sep,22:35,8h 05m ,1,Hyderabad,12826
+114,Air India,AI-2899/IX-9565,New Delhi(DEL),21 Sep,12:30,Bangalore(BLR),21 Sep,22:35,10h 05m ,1,Hyderabad,12826
+115,Air India,IX-9484/AI-2849,New Delhi(DEL),21 Sep,23:25,Bangalore(BLR),22 Sep,19:35,20h 10m ,1,Mumbai,12881
+116,Air India,AI-2907/IX-9411,New Delhi(DEL),21 Sep,12:00,Bangalore(BLR),21 Sep,23:35,11h 35m ,1,Dehradun,12899
+117,Air India,AI-1743/IX-9491,New Delhi(DEL),21 Sep,06:20,Bangalore(BLR),21 Sep,17:30,11h 10m ,1,Chandigarh,12927
+118,Air India,AI-2706/IX-9489,New Delhi(DEL),21 Sep,14:10,Bangalore(BLR),22 Sep,09:55,19h 45m ,1,Chandigarh,12927
+119,Air India,AI-2903/IX-9841,New Delhi(DEL),21 Sep,17:40,Bangalore(BLR),22 Sep,09:20,15h 40m ,1,Vijayawada,12935
+120,Air India,AI-2519/IX-9575,New Delhi(DEL),21 Sep,15:30,Bangalore(BLR),21 Sep,20:45,5h 15m ,1,Hyderabad,13025
+121,Air India,AI-2465/IX-9575,New Delhi(DEL),21 Sep,14:30,Bangalore(BLR),21 Sep,20:45,6h 15m ,1,Hyderabad,13025
+122,Air India,AI-2899/IX-9575,New Delhi(DEL),21 Sep,12:30,Bangalore(BLR),21 Sep,20:45,8h 15m ,1,Hyderabad,13025
+123,Air India,AI-2449/IX-9573,New Delhi(DEL),21 Sep,22:00,Bangalore(BLR),22 Sep,07:55,9h 55m ,1,Hyderabad,13025
+124,Air India,AI-2871/IX-9573,New Delhi(DEL),21 Sep,20:30,Bangalore(BLR),22 Sep,07:55,11h 25m ,1,Hyderabad,13025
+125,Air India,AI-1708/IX-9573,New Delhi(DEL),21 Sep,19:30,Bangalore(BLR),22 Sep,07:55,12h 25m ,1,Hyderabad,13025
+126,Air India,AI-2879/IX-9573,New Delhi(DEL),21 Sep,18:00,Bangalore(BLR),22 Sep,07:55,13h 55m ,1,Hyderabad,13025
+127,Air India,AI-2519/IX-9573,New Delhi(DEL),21 Sep,15:30,Bangalore(BLR),22 Sep,07:55,16h 25m ,1,Hyderabad,13025
+128,Air India,AI-2465/IX-9573,New Delhi(DEL),21 Sep,14:30,Bangalore(BLR),22 Sep,07:55,17h 25m ,1,Hyderabad,13025
+129,Air India,AI-1797/IX-9809,New Delhi(DEL),21 Sep,05:45,Bangalore(BLR),21 Sep,16:40,10h 55m ,1,Pune,13032
+130,Air India,AI-1797/IX-9807,New Delhi(DEL),21 Sep,05:45,Bangalore(BLR),21 Sep,20:40,14h 55m ,1,Pune,13032
+131,Air India Express,IX-1067/IX-2963,New Delhi(DEL),21 Sep,06:10,Bangalore(BLR),21 Sep,15:25,9h 15m ,1,Bagdogra,13164
+132,Akasa Air,QP-1940/QP-1518,Noida(DXN),21 Sep,14:05,Bangalore(BLR),21 Sep,23:45,9h 40m ,1,Mumbai,13206
+133,Air India,AI-2449/IX-9565,New Delhi(DEL),21 Sep,22:00,Bangalore(BLR),22 Sep,22:35,24h 35m ,1,Hyderabad,13262
+134,IndiGo,6E-329/6E-6188,New Delhi(DEL),21 Sep,18:00,Bangalore(BLR),21 Sep,23:25,5h 25m ,1,Mumbai,13280
+135,Air India,AI-2542/IX-9565,New Delhi(DEL),21 Sep,09:40,Bangalore(BLR),21 Sep,22:35,12h 55m ,1,Hyderabad,13301
+136,Air India,AI-2711/IX-9811,New Delhi(DEL),21 Sep,02:00,Bangalore(BLR),22 Sep,01:40,23h 40m ,1,Pune,13393
+137,Air India,AI-2542/IX-9575,New Delhi(DEL),21 Sep,09:40,Bangalore(BLR),21 Sep,20:45,11h 05m ,1,Hyderabad,13501
+138,Akasa Air,QP-1940/QP-1384,Noida(DXN),21 Sep,14:05,Bangalore(BLR),22 Sep,01:05,11h 00m ,1,Mumbai,13502
+139,Air India,AI-2449/IX-9571,New Delhi(DEL),21 Sep,22:00,Bangalore(BLR),22 Sep,09:25,11h 25m ,1,Hyderabad,13510
+140,Air India,AI-2871/IX-9571,New Delhi(DEL),21 Sep,20:30,Bangalore(BLR),22 Sep,09:25,12h 55m ,1,Hyderabad,13510
+141,Air India,AI-1708/IX-9571,New Delhi(DEL),21 Sep,19:30,Bangalore(BLR),22 Sep,09:25,13h 55m ,1,Hyderabad,13510
+142,Air India,AI-2879/IX-9571,New Delhi(DEL),21 Sep,18:00,Bangalore(BLR),22 Sep,09:25,15h 25m ,1,Hyderabad,13510
+143,Air India,AI-2519/IX-9571,New Delhi(DEL),21 Sep,15:30,Bangalore(BLR),22 Sep,09:25,17h 55m ,1,Hyderabad,13510
+144,Air India,AI-2465/IX-9571,New Delhi(DEL),21 Sep,14:30,Bangalore(BLR),22 Sep,09:25,18h 55m ,1,Hyderabad,13510
+145,Air India Express,IX-1090/IX-1368,New Delhi(DEL),21 Sep,13:10,Bangalore(BLR),21 Sep,19:05,5h 55m ,1,Indore,13545
+146,Air India,AI-2859/IX-9565,New Delhi(DEL),21 Sep,10:30,Bangalore(BLR),21 Sep,22:35,12h 05m ,1,Hyderabad,13555
+147,Air India,AI-2609/IX-9807,New Delhi(DEL),21 Sep,23:50,Bangalore(BLR),22 Sep,20:40,20h 50m ,1,Pune,13625
+148,Air India Express,IX-1346/IX-2817,New Delhi(DEL),21 Sep,06:10,Bangalore(BLR),21 Sep,16:05,9h 55m ,1,Patna,14085
+149,Air India Express,IX-1811/IX-1896,New Delhi(DEL),21 Sep,06:50,Bangalore(BLR),21 Sep,15:00,8h 10m ,1,Kochi,14543
+150,Akasa Air,QP-1940/QP-1382,Noida(DXN),21 Sep,14:05,Bangalore(BLR),21 Sep,20:20,6h 15m ,1,Mumbai,15203
+151,Akasa Air,QP-1940/QP-1133,Noida(DXN),21 Sep,14:05,Bangalore(BLR),21 Sep,21:45,7h 40m ,1,Mumbai,15203
+152,Air India Express,IX-1068/IX-2004,New Delhi(DEL),21 Sep,11:55,Bangalore(BLR),21 Sep,20:10,8h 15m ,1,Goa,15663
+153,Air India Express,IX-1783/IX-1216,New Delhi(DEL),21 Sep,07:20,Bangalore(BLR),21 Sep,14:15,6h 55m ,1,Bhubaneswar,18698

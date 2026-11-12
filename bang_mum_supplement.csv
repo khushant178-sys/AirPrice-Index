@@ -1,0 +1,594 @@
+source_file,snapshot_date,airline,flight_number,origin,destination,departure_date,departure_time,arrival_date,arrival_time,duration,stops,stop_place,price_inr
+bang_mum_10.csv,2026-09-10,Air India Express,IX-2931,Bengaluru(BLR),Navi Mumbai(NMI),10/09/2026,08:25,10/09/2026,19:45,11h 20m,2,"Guwahati, New Delhi",9797
+bang_mum_10.csv,2026-09-10,Air India Express,IX-2881,Bengaluru(BLR),Navi Mumbai(NMI),10/09/2026,05:50,10/09/2026,19:45,13h 55m,2,"Guwahati, New Delhi",9797
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6554,Bengaluru(BLR),Mumbai(BOM),10/09/2026,19:15,11/09/2026,01:25,06h 10m,1,Goa,8834
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6445,Bengaluru(BLR),Mumbai(BOM),10/09/2026,10:25,10/09/2026,17:05,06h 40m,1,Kochi,9176
+bang_mum_10.csv,2026-09-10,IndiGo,6E-239,Bengaluru(BLR),Mumbai(BOM),10/09/2026,16:50,10/09/2026,23:00,06h 10m,1,Ahmedabad,9912
+bang_mum_10.csv,2026-09-10,IndiGo,6E-747,Bengaluru(BLR),Mumbai(BOM),10/09/2026,17:55,10/09/2026,23:45,05h 50m,1,Indore,10043
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6595,Bengaluru(BLR),Mumbai(BOM),10/09/2026,13:55,10/09/2026,18:25,04h 30m,1,Ahmedabad,10722
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6784,Bengaluru(BLR),Mumbai(BOM),10/09/2026,21:30,11/09/2026,04:35,07h 05m,1,Hyderabad,12381
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6753,Bengaluru(BLR),Navi Mumbai(NMI),10/09/2026,15:15,10/09/2026,23:00,07h 45m,1,Goa,12501
+bang_mum_10.csv,2026-09-10,Air India Express,IX-2678,Bengaluru(BLR),Mumbai(BOM),10/09/2026,05:30,10/09/2026,18:35,13h 05m,1,Kochi,12620
+bang_mum_10.csv,2026-09-10,Air India,AI-9840,Bengaluru(BLR),Mumbai(BOM),10/09/2026,06:10,10/09/2026,20:10,14h 00m,1,Vijayawada,13101
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6554,Bengaluru(BLR),Navi Mumbai(NMI),10/09/2026,19:15,10/09/2026,23:00,03h 45m,1,Goa,13340
+bang_mum_10.csv,2026-09-10,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),10/09/2026,14:45,11/09/2026,09:10,18h 25m,1,Chennai,13725
+bang_mum_10.csv,2026-09-10,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),10/09/2026,12:40,11/09/2026,09:10,20h 30m,1,Chennai,13725
+bang_mum_10.csv,2026-09-10,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),10/09/2026,14:45,11/09/2026,11:55,21h 10m,1,Chennai,13725
+bang_mum_10.csv,2026-09-10,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),10/09/2026,12:40,11/09/2026,11:55,23h 15m,1,Chennai,13725
+bang_mum_10.csv,2026-09-10,Air India,AI-9762,Bengaluru(BLR),Mumbai(BOM),10/09/2026,07:05,11/09/2026,09:10,26h 05m,1,Chennai,13725
+bang_mum_10.csv,2026-09-10,Air India,AI-9482,Bengaluru(BLR),Mumbai(BOM),10/09/2026,19:40,11/09/2026,09:10,13h 30m,1,Chennai,13925
+bang_mum_10.csv,2026-09-10,Air India,AI-9482,Bengaluru(BLR),Mumbai(BOM),10/09/2026,19:40,11/09/2026,11:55,16h 15m,1,Chennai,13925
+bang_mum_10.csv,2026-09-10,Air India,AI-9457,Bengaluru(BLR),Mumbai(BOM),10/09/2026,13:45,11/09/2026,12:30,22h 45m,1,Kochi,14072
+bang_mum_10.csv,2026-09-10,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),10/09/2026,14:45,11/09/2026,08:15,17h 30m,1,Chennai,14284
+bang_mum_10.csv,2026-09-10,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),10/09/2026,12:40,11/09/2026,08:15,19h 35m,1,Chennai,14284
+bang_mum_10.csv,2026-09-10,Air India,AI-9482,Bengaluru(BLR),Mumbai(BOM),10/09/2026,19:40,11/09/2026,08:15,12h 35m,1,Chennai,14485
+bang_mum_10.csv,2026-09-10,Air India,AI-9478,Bengaluru(BLR),Mumbai(BOM),10/09/2026,22:10,11/09/2026,09:10,11h 00m,1,Chennai,14637
+bang_mum_10.csv,2026-09-10,Air India,AI-9478,Bengaluru(BLR),Mumbai(BOM),10/09/2026,22:10,11/09/2026,11:55,13h 45m,1,Chennai,14637
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6030,Bengaluru(BLR),Navi Mumbai(NMI),10/09/2026,15:00,10/09/2026,16:40,01h 40m,0,-,14701
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6507,Bengaluru(BLR),Mumbai(BOM),10/09/2026,13:15,10/09/2026,17:25,04h 10m,1,Hirasar,14850
+bang_mum_10.csv,2026-09-10,IndiGo,6E-857,Bengaluru(BLR),Mumbai(BOM),10/09/2026,07:05,10/09/2026,14:15,07h 10m,1,Coimbatore,14850
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6595,Bengaluru(BLR),Mumbai(BOM),10/09/2026,13:55,10/09/2026,21:05,07h 10m,1,Ahmedabad,14850
+bang_mum_10.csv,2026-09-10,Air India,AI-9547,Bengaluru(BLR),Mumbai(BOM),10/09/2026,19:05,11/09/2026,16:40,21h 35m,1,Lucknow,14950
+bang_mum_10.csv,2026-09-10,Air India,AI-9475,Bengaluru(BLR),Mumbai(BOM),10/09/2026,11:45,11/09/2026,16:40,28h 55m,1,Lucknow,14950
+bang_mum_10.csv,2026-09-10,Air India,AI-2811,Bengaluru(BLR),Mumbai(BOM),10/09/2026,23:40,11/09/2026,01:45,02h 05m,0,-,15145
+bang_mum_10.csv,2026-09-10,Air India,AI-9478,Bengaluru(BLR),Mumbai(BOM),10/09/2026,22:10,11/09/2026,08:15,10h 05m,1,Chennai,15197
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6753,Bengaluru(BLR),Mumbai(BOM),10/09/2026,15:15,10/09/2026,19:55,04h 40m,1,Goa,15306
+bang_mum_10.csv,2026-09-10,Akasa Air,QP-1381,Bengaluru(BLR),Mumbai(BOM),10/09/2026,04:50,10/09/2026,06:45,01h 55m,0,-,15314
+bang_mum_10.csv,2026-09-10,IndiGo,6E-7445,Bengaluru(BLR),Navi Mumbai(NMI),10/09/2026,15:20,10/09/2026,21:50,06h 30m,1,Kolhapur,15516
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6562,Bengaluru(BLR),Mumbai(BOM),10/09/2026,21:50,11/09/2026,04:45,06h 55m,1,Chennai,15519
+bang_mum_10.csv,2026-09-10,Akasa Air,QP-1986,Bengaluru(BLR),Mumbai(BOM),10/09/2026,17:45,10/09/2026,19:40,01h 55m,0,-,15978
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6017,Bengaluru(BLR),Mumbai(BOM),10/09/2026,18:15,11/09/2026,00:30,06h 15m,1,Chennai,16150
+bang_mum_10.csv,2026-09-10,IndiGo,6E-904,Bengaluru(BLR),Mumbai(BOM),10/09/2026,10:50,10/09/2026,16:40,05h 50m,1,Chennai,16195
+bang_mum_10.csv,2026-09-10,IndiGo,6E-109,Bengaluru(BLR),Mumbai(BOM),10/09/2026,17:00,10/09/2026,22:50,05h 50m,1,Mangalore,16232
+bang_mum_10.csv,2026-09-10,Air India Express,IX-1581,Bengaluru(BLR),Navi Mumbai(NMI),10/09/2026,18:40,10/09/2026,20:25,01h 45m,0,-,17933
+bang_mum_10.csv,2026-09-10,Air India Express,IX-1360,Bengaluru(BLR),Navi Mumbai(NMI),10/09/2026,20:55,10/09/2026,22:40,01h 45m,0,-,17933
+bang_mum_10.csv,2026-09-10,Air India Express,IX-1893,Bengaluru(BLR),Mumbai(BOM),10/09/2026,08:40,10/09/2026,18:35,09h 55m,1,Kochi,16663
+bang_mum_10.csv,2026-09-10,IndiGo,6E-904,Bengaluru(BLR),Mumbai(BOM),10/09/2026,10:50,10/09/2026,14:45,03h 55m,1,Chennai,16965
+bang_mum_10.csv,2026-09-10,Air India Express,IX-1386,Bengaluru(BLR),Mumbai(BOM),10/09/2026,13:05,10/09/2026,19:50,06h 45m,1,Goa,17030
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6012,Bengaluru(BLR),Mumbai(BOM),10/09/2026,19:30,11/09/2026,00:30,05h 00m,1,Chennai,17197
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6077,Bengaluru(BLR),Mumbai(BOM),10/09/2026,20:20,11/09/2026,00:30,04h 10m,1,Chennai,17478
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6423,Bengaluru(BLR),Mumbai(BOM),10/09/2026,20:00,11/09/2026,02:55,06h 55m,1,Ahmedabad,17580
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6269,Bengaluru(BLR),Mumbai(BOM),10/09/2026,07:15,10/09/2026,14:45,07h 30m,1,Chennai,17580
+bang_mum_10.csv,2026-09-10,Air India Express,IX-1896,Bengaluru(BLR),Mumbai(BOM),10/09/2026,13:45,10/09/2026,18:35,04h 50m,1,Kochi,17658
+bang_mum_10.csv,2026-09-10,Air India Express,IX-1896,Bengaluru(BLR),Mumbai(BOM),10/09/2026,13:45,11/09/2026,01:15,11h 30m,1,Kochi,17921
+bang_mum_10.csv,2026-09-10,IndiGo,6E-356,Bengaluru(BLR),Mumbai(BOM),10/09/2026,17:15,11/09/2026,00:30,07h 15m,1,Chennai,17788
+bang_mum_10.csv,2026-09-10,Akasa Air,QP-1515,Bengaluru(BLR),Mumbai(BOM),10/09/2026,06:20,10/09/2026,08:00,01h 40m,0,-,18160
+bang_mum_10.csv,2026-09-10,Akasa Air,QP-1134,Bengaluru(BLR),Mumbai(BOM),10/09/2026,22:55,11/09/2026,00:45,01h 50m,0,-,18160
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6162,Bengaluru(BLR),Mumbai(BOM),10/09/2026,18:50,10/09/2026,22:50,04h 00m,1,Mangalore,18398
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6269,Bengaluru(BLR),Mumbai(BOM),10/09/2026,07:15,10/09/2026,13:00,05h 45m,1,Chennai,18503
+bang_mum_10.csv,2026-09-10,Air India Express,IX-1539,Bengaluru(BLR),Mumbai(BOM),10/09/2026,05:20,10/09/2026,15:40,10h 20m,1,Goa,18762
+bang_mum_10.csv,2026-09-10,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),10/09/2026,14:45,10/09/2026,19:10,04h 25m,1,Chennai,18924
+bang_mum_10.csv,2026-09-10,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),10/09/2026,12:40,10/09/2026,19:10,06h 30m,1,Chennai,18924
+bang_mum_10.csv,2026-09-10,Air India Express,IX-1539,Bengaluru(BLR),Mumbai(BOM),10/09/2026,05:20,10/09/2026,19:50,14h 30m,1,Goa,19182
+bang_mum_10.csv,2026-09-10,Air India,AI-2852,Bengaluru(BLR),Mumbai(BOM),10/09/2026,10:30,10/09/2026,12:35,02h 05m,0,-,19474
+bang_mum_10.csv,2026-09-10,Air India,AI-2840,Bengaluru(BLR),Mumbai(BOM),10/09/2026,22:30,11/09/2026,00:35,02h 05m,0,-,19474
+bang_mum_10.csv,2026-09-10,Akasa Air,QP-1383,Bengaluru(BLR),Mumbai(BOM),10/09/2026,05:25,10/09/2026,07:10,01h 45m,0,-,19786
+bang_mum_10.csv,2026-09-10,Air India,AI-2604,Bengaluru(BLR),Mumbai(BOM),10/09/2026,09:15,10/09/2026,11:15,02h 00m,0,-,19839
+bang_mum_10.csv,2026-09-10,Air India,AI-9524,Bengaluru(BLR),Mumbai(BOM),10/09/2026,17:00,10/09/2026,23:10,06h 10m,1,Goa,19971
+bang_mum_10.csv,2026-09-10,IndiGo,6E-5216,Bengaluru(BLR),Mumbai(BOM),10/09/2026,07:25,10/09/2026,09:10,01h 45m,0,-,20104
+bang_mum_10.csv,2026-09-10,IndiGo,6E-5255,Bengaluru(BLR),Mumbai(BOM),10/09/2026,17:25,10/09/2026,19:05,01h 40m,0,-,20104
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6283,Bengaluru(BLR),Mumbai(BOM),10/09/2026,19:05,10/09/2026,20:40,01h 35m,0,-,20104
+bang_mum_10.csv,2026-09-10,Air India,AI-2854,Bengaluru(BLR),Mumbai(BOM),10/09/2026,18:05,10/09/2026,20:05,02h 00m,0,-,20203
+bang_mum_10.csv,2026-09-10,Air India,AI-2610,Bengaluru(BLR),Mumbai(BOM),10/09/2026,19:00,10/09/2026,21:05,02h 05m,0,-,20567
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6542,Bengaluru(BLR),Mumbai(BOM),10/09/2026,13:10,10/09/2026,20:15,07h 05m,1,Coimbatore,20577
+bang_mum_10.csv,2026-09-10,Akasa Air,QP-1517,Bengaluru(BLR),Mumbai(BOM),10/09/2026,07:40,10/09/2026,09:20,01h 40m,0,-,21205
+bang_mum_10.csv,2026-09-10,Akasa Air,QP-1150,Bengaluru(BLR),Mumbai(BOM),10/09/2026,16:05,10/09/2026,18:05,02h 00m,0,-,21205
+bang_mum_10.csv,2026-09-10,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),10/09/2026,12:40,10/09/2026,18:20,05h 40m,1,Chennai,21214
+bang_mum_10.csv,2026-09-10,IndiGo,6E-763,Bengaluru(BLR),Mumbai(BOM),10/09/2026,07:05,10/09/2026,12:50,05h 45m,1,Kochi,21681
+bang_mum_10.csv,2026-09-10,IndiGo,6E-2138,Bengaluru(BLR),Mumbai(BOM),10/09/2026,15:50,10/09/2026,22:00,06h 10m,1,Kochi,22001
+bang_mum_10.csv,2026-09-10,Air India,AI-9455,Bengaluru(BLR),Mumbai(BOM),10/09/2026,08:40,10/09/2026,15:00,06h 20m,1,Kochi,23028
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6017,Bengaluru(BLR),Mumbai(BOM),10/09/2026,18:15,10/09/2026,22:15,04h 00m,1,Chennai,23236
+bang_mum_10.csv,2026-09-10,Air India,AI-9602,Bengaluru(BLR),Mumbai(BOM),10/09/2026,09:15,10/09/2026,17:25,08h 10m,1,Dehra Dun,23710
+bang_mum_10.csv,2026-09-10,IndiGo,6E-7005,Bengaluru(BLR),Mumbai(BOM),10/09/2026,08:05,10/09/2026,12:50,04h 45m,1,Kochi,23864
+bang_mum_10.csv,2026-09-10,IndiGo,6E-356,Bengaluru(BLR),Mumbai(BOM),10/09/2026,17:15,10/09/2026,22:15,05h 00m,1,Chennai,24084
+bang_mum_10.csv,2026-09-10,Air India,AI-9762,Bengaluru(BLR),Mumbai(BOM),10/09/2026,07:05,10/09/2026,11:55,04h 50m,1,Chennai,24257
+bang_mum_10.csv,2026-09-10,Air India Express,IX-2678,Bengaluru(BLR),Mumbai(BOM),10/09/2026,05:30,10/09/2026,10:15,04h 45m,1,Kochi,24296
+bang_mum_10.csv,2026-09-10,Air India,AI-9708,Bengaluru(BLR),Mumbai(BOM),10/09/2026,10:05,10/09/2026,15:40,05h 35m,1,Jaipur,24817
+bang_mum_10.csv,2026-09-10,IndiGo,6E-537,Bengaluru(BLR),Mumbai(BOM),10/09/2026,10:15,10/09/2026,14:25,04h 10m,1,Hyderabad,25030
+bang_mum_10.csv,2026-09-10,IndiGo,6E-312,Bengaluru(BLR),Mumbai(BOM),10/09/2026,09:15,10/09/2026,14:25,05h 10m,1,Hyderabad,25030
+bang_mum_10.csv,2026-09-10,IndiGo,6E-537,Bengaluru(BLR),Mumbai(BOM),10/09/2026,10:15,10/09/2026,15:55,05h 40m,1,Hyderabad,26605
+bang_mum_10.csv,2026-09-10,IndiGo,6E-312,Bengaluru(BLR),Mumbai(BOM),10/09/2026,09:15,10/09/2026,15:55,06h 40m,1,Hyderabad,26605
+bang_mum_10.csv,2026-09-10,IndiGo,6E-638,Bengaluru(BLR),Mumbai(BOM),10/09/2026,18:35,11/09/2026,01:00,06h 25m,1,Hyderabad,27004
+bang_mum_10.csv,2026-09-10,IndiGo,6E-807,Bengaluru(BLR),Mumbai(BOM),10/09/2026,15:40,10/09/2026,22:25,06h 45m,1,Vadodara,27061
+bang_mum_10.csv,2026-09-10,Air India,AI-9605,Bengaluru(BLR),Mumbai(BOM),10/09/2026,14:25,10/09/2026,20:00,05h 35m,1,Indore,28279
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6178,Bengaluru(BLR),Mumbai(BOM),10/09/2026,06:25,10/09/2026,10:55,04h 30m,1,Hyderabad,28285
+bang_mum_10.csv,2026-09-10,IndiGo,6E-855,Bengaluru(BLR),Mumbai(BOM),10/09/2026,19:45,11/09/2026,01:00,05h 15m,1,Hyderabad,28285
+bang_mum_10.csv,2026-09-10,Air India,AI-9898,Bengaluru(BLR),Mumbai(BOM),10/09/2026,10:20,10/09/2026,16:50,06h 30m,1,Patna,35054
+bang_mum_10.csv,2026-09-10,Air India,AI-9437,Bengaluru(BLR),Mumbai(BOM),10/09/2026,07:05,10/09/2026,13:35,06h 30m,1,Kolkata,35098
+bang_mum_10.csv,2026-09-10,IndiGo,6E-6423,Bengaluru(BLR),Mumbai(BOM),10/09/2026,20:00,11/09/2026,00:30,04h 30m,1,Ahmedabad,35359
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5216,Bengaluru(BLR),Mumbai(BOM),13/09/2026,07:25,13/09/2026,09:10,01h 45m,0,-,6982
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6554,Bengaluru(BLR),Navi Mumbai(NMI),13/09/2026,19:15,13/09/2026,23:00,03h 45m,1,Goa,7270
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6168,Bengaluru(BLR),Navi Mumbai(NMI),13/09/2026,17:40,13/09/2026,23:00,05h 20m,1,Goa,7270
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6753,Bengaluru(BLR),Navi Mumbai(NMI),13/09/2026,15:15,13/09/2026,23:00,07h 45m,1,Goa,7270
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6653,Bengaluru(BLR),Navi Mumbai(NMI),13/09/2026,12:35,13/09/2026,23:00,10h 25m,1,Goa,7270
+bang_mum_13.csv,2026-09-13,Akasa Air,QP-1515,Bengaluru(BLR),Mumbai(BOM),13/09/2026,06:20,13/09/2026,08:00,01h 40m,0,-,7287
+bang_mum_13.csv,2026-09-13,Akasa Air,QP-1381,Bengaluru(BLR),Mumbai(BOM),13/09/2026,04:50,13/09/2026,06:45,01h 55m,0,-,7287
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5094,Bengaluru(BLR),Mumbai(BOM),13/09/2026,22:20,14/09/2026,00:05,01h 45m,0,-,7297
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5255,Bengaluru(BLR),Mumbai(BOM),13/09/2026,17:25,13/09/2026,19:05,01h 40m,0,-,7297
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5351,Bengaluru(BLR),Mumbai(BOM),13/09/2026,14:20,13/09/2026,16:05,01h 45m,0,-,7297
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5218,Bengaluru(BLR),Mumbai(BOM),13/09/2026,13:00,13/09/2026,14:50,01h 50m,0,-,7297
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5237,Bengaluru(BLR),Mumbai(BOM),13/09/2026,10:15,13/09/2026,12:05,01h 50m,0,-,7297
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5051,Bengaluru(BLR),Mumbai(BOM),13/09/2026,08:30,13/09/2026,10:15,01h 45m,0,-,7297
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6753,Bengaluru(BLR),Mumbai(BOM),13/09/2026,15:15,13/09/2026,19:55,04h 40m,1,Goa,7308
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6653,Bengaluru(BLR),Mumbai(BOM),13/09/2026,12:35,13/09/2026,17:50,05h 15m,1,Goa,7308
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6554,Bengaluru(BLR),Mumbai(BOM),13/09/2026,19:15,14/09/2026,01:25,06h 10m,1,Goa,7308
+bang_mum_13.csv,2026-09-13,Air India,AI-2402,Bengaluru(BLR),Mumbai(BOM),13/09/2026,06:35,13/09/2026,08:35,02h 00m,0,-,7347
+bang_mum_13.csv,2026-09-13,Air India,AI-2411,Bengaluru(BLR),Mumbai(BOM),13/09/2026,08:20,13/09/2026,10:20,02h 00m,0,-,7347
+bang_mum_13.csv,2026-09-13,IndiGo,6E-2086,Bengaluru(BLR),Navi Mumbai(NMI),13/09/2026,09:20,13/09/2026,10:55,01h 35m,0,-,7417
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5293,Bengaluru(BLR),Mumbai(BOM),13/09/2026,01:00,13/09/2026,02:50,01h 50m,0,-,7419
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5089,Bengaluru(BLR),Mumbai(BOM),13/09/2026,05:30,13/09/2026,07:15,01h 45m,0,-,7419
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5205,Bengaluru(BLR),Mumbai(BOM),13/09/2026,03:45,13/09/2026,05:30,01h 45m,0,-,7419
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6162,Bengaluru(BLR),Mumbai(BOM),13/09/2026,18:50,13/09/2026,22:50,04h 00m,1,Mangalore,7439
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6178,Bengaluru(BLR),Mumbai(BOM),13/09/2026,06:25,13/09/2026,10:55,04h 30m,1,Hyderabad,7439
+bang_mum_13.csv,2026-09-13,IndiGo,6E-537,Bengaluru(BLR),Mumbai(BOM),13/09/2026,10:15,13/09/2026,14:25,04h 10m,1,Hyderabad,7439
+bang_mum_13.csv,2026-09-13,IndiGo,6E-312,Bengaluru(BLR),Mumbai(BOM),13/09/2026,09:15,13/09/2026,14:25,05h 10m,1,Hyderabad,7439
+bang_mum_13.csv,2026-09-13,IndiGo,6E-537,Bengaluru(BLR),Mumbai(BOM),13/09/2026,10:15,13/09/2026,15:55,05h 40m,1,Hyderabad,7439
+bang_mum_13.csv,2026-09-13,IndiGo,6E-638,Bengaluru(BLR),Mumbai(BOM),13/09/2026,18:35,14/09/2026,01:00,06h 25m,1,Hyderabad,7439
+bang_mum_13.csv,2026-09-13,IndiGo,6E-484,Bengaluru(BLR),Mumbai(BOM),13/09/2026,08:15,13/09/2026,14:25,06h 10m,1,Hyderabad,7439
+bang_mum_13.csv,2026-09-13,IndiGo,6E-312,Bengaluru(BLR),Mumbai(BOM),13/09/2026,09:15,13/09/2026,15:55,06h 40m,1,Hyderabad,7439
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6784,Bengaluru(BLR),Mumbai(BOM),13/09/2026,21:30,14/09/2026,04:35,07h 05m,1,Hyderabad,7439
+bang_mum_13.csv,2026-09-13,Air India,AI-2604,Bengaluru(BLR),Mumbai(BOM),13/09/2026,09:15,13/09/2026,11:15,02h 00m,0,-,7469
+bang_mum_13.csv,2026-09-13,Akasa Air,QP-1517,Bengaluru(BLR),Mumbai(BOM),13/09/2026,07:40,13/09/2026,09:25,01h 45m,0,-,7583
+bang_mum_13.csv,2026-09-13,Akasa Air,QP-1134,Bengaluru(BLR),Mumbai(BOM),13/09/2026,22:55,14/09/2026,00:45,01h 50m,0,-,7583
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6283,Bengaluru(BLR),Mumbai(BOM),13/09/2026,19:05,13/09/2026,20:40,01h 35m,0,-,7612
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5031,Bengaluru(BLR),Mumbai(BOM),13/09/2026,16:00,13/09/2026,17:45,01h 45m,0,-,7612
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5069,Bengaluru(BLR),Mumbai(BOM),13/09/2026,11:30,13/09/2026,13:20,01h 50m,0,-,7612
+bang_mum_13.csv,2026-09-13,Air India,AI-2840,Bengaluru(BLR),Mumbai(BOM),13/09/2026,22:30,14/09/2026,00:35,02h 05m,0,-,7642
+bang_mum_13.csv,2026-09-13,IndiGo,6E-904,Bengaluru(BLR),Mumbai(BOM),13/09/2026,10:50,13/09/2026,14:45,03h 55m,1,Chennai,7649
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6017,Bengaluru(BLR),Mumbai(BOM),13/09/2026,18:15,13/09/2026,22:15,04h 00m,1,Chennai,7649
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6423,Bengaluru(BLR),Mumbai(BOM),13/09/2026,20:00,14/09/2026,00:30,04h 30m,1,Ahmedabad,7649
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6077,Bengaluru(BLR),Mumbai(BOM),13/09/2026,20:20,14/09/2026,00:30,04h 10m,1,Chennai,7649
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6507,Bengaluru(BLR),Mumbai(BOM),13/09/2026,13:15,13/09/2026,17:25,04h 10m,1,Hirasar,7649
+bang_mum_13.csv,2026-09-13,IndiGo,6E-356,Bengaluru(BLR),Mumbai(BOM),13/09/2026,17:15,13/09/2026,22:15,05h 00m,1,Chennai,7649
+bang_mum_13.csv,2026-09-13,IndiGo,6E-586,Bengaluru(BLR),Mumbai(BOM),13/09/2026,05:10,13/09/2026,10:30,05h 20m,1,Ahmedabad,7649
+bang_mum_13.csv,2026-09-13,IndiGo,6E-763,Bengaluru(BLR),Mumbai(BOM),13/09/2026,07:05,13/09/2026,12:50,05h 45m,1,Kochi,7649
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6269,Bengaluru(BLR),Mumbai(BOM),13/09/2026,07:15,13/09/2026,13:00,05h 45m,1,Chennai,7649
+bang_mum_13.csv,2026-09-13,IndiGo,6E-904,Bengaluru(BLR),Mumbai(BOM),13/09/2026,10:50,13/09/2026,16:40,05h 50m,1,Chennai,7649
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6423,Bengaluru(BLR),Mumbai(BOM),13/09/2026,20:00,14/09/2026,02:55,06h 55m,1,Ahmedabad,7649
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6017,Bengaluru(BLR),Mumbai(BOM),13/09/2026,18:15,14/09/2026,00:30,06h 15m,1,Chennai,7649
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6562,Bengaluru(BLR),Mumbai(BOM),13/09/2026,21:50,14/09/2026,04:45,06h 55m,1,Chennai,7649
+bang_mum_13.csv,2026-09-13,Air India,AI-2610,Bengaluru(BLR),Mumbai(BOM),13/09/2026,19:00,13/09/2026,21:05,02h 05m,0,-,7651
+bang_mum_13.csv,2026-09-13,Air India,AI-2642,Bengaluru(BLR),Mumbai(BOM),13/09/2026,21:30,13/09/2026,23:35,02h 05m,0,-,7662
+bang_mum_13.csv,2026-09-13,IndiGo,6E-747,Bengaluru(BLR),Mumbai(BOM),13/09/2026,17:55,13/09/2026,23:45,05h 50m,1,Indore,7780
+bang_mum_13.csv,2026-09-13,Air India,AI-2852,Bengaluru(BLR),Mumbai(BOM),13/09/2026,10:30,13/09/2026,12:35,02h 05m,0,-,7790
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6653,Bengaluru(BLR),Navi Mumbai(NMI),13/09/2026,12:35,13/09/2026,18:55,06h 20m,1,Goa,7803
+bang_mum_13.csv,2026-09-13,Air India Express,IX-1581,Bengaluru(BLR),Navi Mumbai(NMI),13/09/2026,18:40,13/09/2026,20:25,01h 45m,0,-,7933
+bang_mum_13.csv,2026-09-13,IndiGo,6E-7162,Bengaluru(BLR),Mumbai(BOM),13/09/2026,15:20,13/09/2026,21:20,06h 00m,1,Hubli,7849
+bang_mum_13.csv,2026-09-13,Akasa Air,QP-1528,Bengaluru(BLR),Mumbai(BOM),13/09/2026,10:20,13/09/2026,12:10,01h 50m,0,-,7895
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6030,Bengaluru(BLR),Navi Mumbai(NMI),13/09/2026,15:00,13/09/2026,16:40,01h 40m,0,-,7971
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6067,Bengaluru(BLR),Mumbai(BOM),13/09/2026,16:30,13/09/2026,20:30,04h 00m,1,Hyderabad,7981
+bang_mum_13.csv,2026-09-13,IndiGo,6E-5376,Bengaluru(BLR),Mumbai(BOM),13/09/2026,20:15,13/09/2026,22:00,01h 45m,0,-,8032
+bang_mum_13.csv,2026-09-13,Air India,AI-2630,Bengaluru(BLR),Mumbai(BOM),13/09/2026,12:05,13/09/2026,14:05,02h 00m,0,-,8046
+bang_mum_13.csv,2026-09-13,Air India,AI-2854,Bengaluru(BLR),Mumbai(BOM),13/09/2026,18:05,13/09/2026,20:05,02h 00m,0,-,8110
+bang_mum_13.csv,2026-09-13,IndiGo,6E-7005,Bengaluru(BLR),Mumbai(BOM),13/09/2026,08:05,13/09/2026,12:50,04h 45m,1,Kochi,8191
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6542,Bengaluru(BLR),Mumbai(BOM),13/09/2026,13:10,13/09/2026,20:15,07h 05m,1,Coimbatore,8191
+bang_mum_13.csv,2026-09-13,Air India,AI-2811,Bengaluru(BLR),Mumbai(BOM),13/09/2026,23:40,14/09/2026,01:45,02h 05m,0,-,8258
+bang_mum_13.csv,2026-09-13,Air India Express,IX-1360,Bengaluru(BLR),Navi Mumbai(NMI),13/09/2026,20:55,13/09/2026,22:40,01h 45m,0,-,8933
+bang_mum_13.csv,2026-09-13,Air India,AI-2850,Bengaluru(BLR),Mumbai(BOM),13/09/2026,20:30,13/09/2026,22:40,02h 10m,0,-,8540
+bang_mum_13.csv,2026-09-13,IndiGo,6E-855,Bengaluru(BLR),Mumbai(BOM),13/09/2026,19:45,14/09/2026,01:00,05h 15m,1,Hyderabad,8572
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6891,Bengaluru(BLR),Mumbai(BOM),13/09/2026,17:15,13/09/2026,22:20,05h 05m,1,Nagpur,9348
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6595,Bengaluru(BLR),Mumbai(BOM),13/09/2026,13:55,13/09/2026,18:25,04h 30m,1,Ahmedabad,9427
+bang_mum_13.csv,2026-09-13,IndiGo,6E-239,Bengaluru(BLR),Mumbai(BOM),13/09/2026,16:50,13/09/2026,23:00,06h 10m,1,Ahmedabad,9427
+bang_mum_13.csv,2026-09-13,Air India,AI-9570,Bengaluru(BLR),Mumbai(BOM),13/09/2026,06:05,13/09/2026,13:25,07h 20m,1,Hyderabad,9888
+bang_mum_13.csv,2026-09-13,Air India,AI-9570,Bengaluru(BLR),Mumbai(BOM),13/09/2026,06:05,13/09/2026,16:25,10h 20m,1,Hyderabad,9888
+bang_mum_13.csv,2026-09-13,Air India,AI-9570,Bengaluru(BLR),Mumbai(BOM),13/09/2026,06:05,13/09/2026,19:25,13h 20m,1,Hyderabad,9888
+bang_mum_13.csv,2026-09-13,Air India,AI-9570,Bengaluru(BLR),Mumbai(BOM),13/09/2026,06:05,14/09/2026,07:45,25h 40m,1,Hyderabad,9888
+bang_mum_13.csv,2026-09-13,Air India,AI-9840,Bengaluru(BLR),Mumbai(BOM),13/09/2026,06:10,13/09/2026,20:10,14h 00m,1,Vijayawada,10787
+bang_mum_13.csv,2026-09-13,Air India,AI-2858,Bengaluru(BLR),Mumbai(BOM),13/09/2026,02:20,13/09/2026,04:10,01h 50m,0,-,10832
+bang_mum_13.csv,2026-09-13,Air India,AI-9570,Bengaluru(BLR),Mumbai(BOM),13/09/2026,06:05,13/09/2026,22:30,16h 25m,1,Hyderabad,10856
+bang_mum_13.csv,2026-09-13,Air India,AI-9566,Bengaluru(BLR),Mumbai(BOM),13/09/2026,22:40,14/09/2026,07:45,09h 05m,1,Hyderabad,11278
+bang_mum_13.csv,2026-09-13,Air India,AI-9566,Bengaluru(BLR),Mumbai(BOM),13/09/2026,22:40,14/09/2026,09:15,10h 35m,1,Hyderabad,11278
+bang_mum_13.csv,2026-09-13,Air India,AI-9566,Bengaluru(BLR),Mumbai(BOM),13/09/2026,22:40,14/09/2026,13:25,14h 45m,1,Hyderabad,11278
+bang_mum_13.csv,2026-09-13,Air India,AI-9478,Bengaluru(BLR),Mumbai(BOM),13/09/2026,22:10,14/09/2026,08:15,10h 05m,1,Chennai,11284
+bang_mum_13.csv,2026-09-13,Air India,AI-9478,Bengaluru(BLR),Mumbai(BOM),13/09/2026,22:10,14/09/2026,09:10,11h 00m,1,Chennai,11284
+bang_mum_13.csv,2026-09-13,Air India,AI-9482,Bengaluru(BLR),Mumbai(BOM),13/09/2026,19:40,14/09/2026,08:15,12h 35m,1,Chennai,11284
+bang_mum_13.csv,2026-09-13,Air India,AI-9482,Bengaluru(BLR),Mumbai(BOM),13/09/2026,19:40,14/09/2026,09:10,13h 30m,1,Chennai,11284
+bang_mum_13.csv,2026-09-13,Air India,AI-9478,Bengaluru(BLR),Mumbai(BOM),13/09/2026,22:10,14/09/2026,11:55,13h 45m,1,Chennai,11284
+bang_mum_13.csv,2026-09-13,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),13/09/2026,14:45,14/09/2026,08:15,17h 30m,1,Chennai,11284
+bang_mum_13.csv,2026-09-13,Air India,AI-9524,Bengaluru(BLR),Mumbai(BOM),13/09/2026,17:15,13/09/2026,23:10,05h 55m,1,Goa,11771
+bang_mum_13.csv,2026-09-13,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),13/09/2026,14:45,13/09/2026,23:30,08h 45m,1,Chennai,11842
+bang_mum_13.csv,2026-09-13,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),13/09/2026,12:40,13/09/2026,23:30,10h 50m,1,Chennai,11842
+bang_mum_13.csv,2026-09-13,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),13/09/2026,14:45,13/09/2026,19:10,04h 25m,1,Chennai,11980
+bang_mum_13.csv,2026-09-13,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),13/09/2026,12:40,13/09/2026,18:20,05h 40m,1,Chennai,11980
+bang_mum_13.csv,2026-09-13,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),13/09/2026,12:40,13/09/2026,19:10,06h 30m,1,Chennai,11980
+bang_mum_13.csv,2026-09-13,Air India,AI-9480,Bengaluru(BLR),Mumbai(BOM),13/09/2026,08:40,13/09/2026,18:20,09h 40m,1,Chennai,11980
+bang_mum_13.csv,2026-09-13,Air India,AI-9480,Bengaluru(BLR),Mumbai(BOM),13/09/2026,08:40,13/09/2026,19:10,10h 30m,1,Chennai,11980
+bang_mum_13.csv,2026-09-13,Air India,AI-9568,Bengaluru(BLR),Mumbai(BOM),13/09/2026,17:15,13/09/2026,22:30,05h 15m,1,Hyderabad,12746
+bang_mum_13.csv,2026-09-13,Air India Express,IX-2678,Bengaluru(BLR),Mumbai(BOM),13/09/2026,05:30,13/09/2026,10:15,04h 45m,1,Kochi,12885
+bang_mum_13.csv,2026-09-13,IndiGo,6E-109,Bengaluru(BLR),Mumbai(BOM),13/09/2026,17:00,13/09/2026,22:50,05h 50m,1,Mangalore,13023
+bang_mum_13.csv,2026-09-13,Air India,AI-9434,Bengaluru(BLR),Mumbai(BOM),13/09/2026,06:15,13/09/2026,13:40,07h 25m,1,Ahmedabad,13313
+bang_mum_13.csv,2026-09-13,Air India,AI-9455,Bengaluru(BLR),Mumbai(BOM),13/09/2026,08:40,13/09/2026,15:00,06h 20m,1,Kochi,13415
+bang_mum_13.csv,2026-09-13,Air India Express,IX-2116,Bengaluru(BLR),Mumbai(BOM),13/09/2026,21:00,14/09/2026,10:15,13h 15m,1,Kochi,14249
+bang_mum_13.csv,2026-09-13,Air India Express,IX-1386,Bengaluru(BLR),Mumbai(BOM),13/09/2026,13:05,13/09/2026,19:50,06h 45m,1,Goa,14764
+bang_mum_13.csv,2026-09-13,Air India Express,IX-1893,Bengaluru(BLR),Mumbai(BOM),13/09/2026,08:40,13/09/2026,18:35,09h 55m,1,Kochi,15211
+bang_mum_13.csv,2026-09-13,Air India Express,IX-2678,Bengaluru(BLR),Mumbai(BOM),13/09/2026,05:30,13/09/2026,18:35,13h 05m,1,Kochi,15211
+bang_mum_13.csv,2026-09-13,Air India,AI-2414,Bengaluru(BLR),Mumbai(BOM),13/09/2026,05:30,13/09/2026,12:00,06h 30m,1,New Delhi,15230
+bang_mum_13.csv,2026-09-13,Air India,AI-2414,Bengaluru(BLR),Mumbai(BOM),13/09/2026,05:30,13/09/2026,12:25,06h 55m,1,New Delhi,15230
+bang_mum_13.csv,2026-09-13,Air India,AI-2810,Bengaluru(BLR),Mumbai(BOM),13/09/2026,06:00,13/09/2026,12:00,06h 00m,1,New Delhi,15380
+bang_mum_13.csv,2026-09-13,Air India,AI-2810,Bengaluru(BLR),Mumbai(BOM),13/09/2026,06:00,13/09/2026,12:25,06h 25m,1,New Delhi,15380
+bang_mum_13.csv,2026-09-13,Air India,AI-2486,Bengaluru(BLR),Mumbai(BOM),13/09/2026,14:00,13/09/2026,20:25,06h 25m,1,New Delhi,15380
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6445,Bengaluru(BLR),Mumbai(BOM),13/09/2026,10:25,13/09/2026,17:05,06h 40m,1,Kochi,15523
+bang_mum_13.csv,2026-09-13,Air India,AI-2868,Bengaluru(BLR),Mumbai(BOM),13/09/2026,09:00,13/09/2026,15:50,06h 50m,1,New Delhi,15539
+bang_mum_13.csv,2026-09-13,Air India,AI-428,Bengaluru(BLR),Mumbai(BOM),13/09/2026,15:30,13/09/2026,21:25,05h 55m,1,New Delhi,15836
+bang_mum_13.csv,2026-09-13,Air India,AI-2511,Bengaluru(BLR),Mumbai(BOM),13/09/2026,15:00,13/09/2026,21:25,06h 25m,1,New Delhi,15836
+bang_mum_13.csv,2026-09-13,Air India,AI-428,Bengaluru(BLR),Mumbai(BOM),13/09/2026,15:30,13/09/2026,21:55,06h 25m,1,New Delhi,15836
+bang_mum_13.csv,2026-09-13,Air India,AI-2418,Bengaluru(BLR),Mumbai(BOM),13/09/2026,16:30,13/09/2026,23:05,06h 35m,1,New Delhi,15836
+bang_mum_13.csv,2026-09-13,Air India,AI-2418,Bengaluru(BLR),Mumbai(BOM),13/09/2026,16:30,13/09/2026,23:20,06h 50m,1,New Delhi,15836
+bang_mum_13.csv,2026-09-13,Air India,AI-2654,Bengaluru(BLR),Mumbai(BOM),13/09/2026,07:00,13/09/2026,13:25,06h 25m,1,New Delhi,16205
+bang_mum_13.csv,2026-09-13,Air India,AI-9602,Bengaluru(BLR),Mumbai(BOM),13/09/2026,09:15,13/09/2026,17:25,08h 10m,1,Dehra Dun,16360
+bang_mum_13.csv,2026-09-13,Air India,AI-9520,Bengaluru(BLR),Mumbai(BOM),13/09/2026,13:05,13/09/2026,18:55,05h 50m,1,Goa,16512
+bang_mum_13.csv,2026-09-13,Air India Express,IX-2608,Bengaluru(BLR),Mumbai(BOM),13/09/2026,16:15,14/09/2026,01:15,09h 00m,1,Kochi,17401
+bang_mum_13.csv,2026-09-13,Air India,AI-9437,Bengaluru(BLR),Mumbai(BOM),13/09/2026,07:05,13/09/2026,13:35,06h 30m,1,Kolkata,17723
+bang_mum_13.csv,2026-09-13,Air India,AI-9708,Bengaluru(BLR),Mumbai(BOM),13/09/2026,10:05,13/09/2026,15:40,05h 35m,1,Jaipur,20112
+bang_mum_13.csv,2026-09-13,Air India,AI-9898,Bengaluru(BLR),Mumbai(BOM),13/09/2026,10:20,13/09/2026,16:50,06h 30m,1,Patna,20790
+bang_mum_13.csv,2026-09-13,IndiGo,6E-6863,Bengaluru(BLR),Mumbai(BOM),13/09/2026,08:20,13/09/2026,13:45,05h 25m,1,Nagpur,21029
+bang_mum_13.csv,2026-09-13,Air India,AI-9457,Bengaluru(BLR),Mumbai(BOM),13/09/2026,16:15,13/09/2026,22:25,06h 10m,1,Kochi,21412
+bang_mum_13.csv,2026-09-13,Air India,AI-2406,Bengaluru(BLR),Mumbai(BOM),13/09/2026,11:00,13/09/2026,17:55,06h 55m,1,New Delhi,22506
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6030,Bengaluru(BLR),Navi Mumbai(NMI),15/09/2026,15:00,15/09/2026,16:40,01h 40m,0,-,6023
+bang_mum_15.csv,2026-09-15,Air India,AI-2811,Bengaluru(BLR),Mumbai(BOM),15/09/2026,23:40,16/09/2026,01:45,02h 05m,0,-,6189
+bang_mum_15.csv,2026-09-15,Akasa Air,QP-1134,Bengaluru(BLR),Mumbai(BOM),15/09/2026,22:55,16/09/2026,00:45,01h 50m,0,-,6225
+bang_mum_15.csv,2026-09-15,IndiGo,6E-2086,Bengaluru(BLR),Navi Mumbai(NMI),15/09/2026,09:20,15/09/2026,10:55,01h 35m,0,-,6447
+bang_mum_15.csv,2026-09-15,Akasa Air,QP-1132,Bengaluru(BLR),Mumbai(BOM),15/09/2026,15:20,15/09/2026,17:20,02h 00m,0,-,6473
+bang_mum_15.csv,2026-09-15,Air India Express,IX-1581,Bengaluru(BLR),Navi Mumbai(NMI),15/09/2026,18:40,15/09/2026,20:25,01h 45m,0,-,6534
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6554,Bengaluru(BLR),Mumbai(BOM),15/09/2026,19:15,16/09/2026,01:25,06h 10m,1,Goa,6573
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6554,Bengaluru(BLR),Navi Mumbai(NMI),15/09/2026,19:15,15/09/2026,23:00,03h 45m,1,Goa,6853
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6168,Bengaluru(BLR),Navi Mumbai(NMI),15/09/2026,17:40,15/09/2026,23:00,05h 20m,1,Goa,6853
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6753,Bengaluru(BLR),Navi Mumbai(NMI),15/09/2026,15:15,15/09/2026,23:00,07h 45m,1,Goa,6853
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6653,Bengaluru(BLR),Navi Mumbai(NMI),15/09/2026,12:35,15/09/2026,23:00,10h 25m,1,Goa,6942
+bang_mum_15.csv,2026-09-15,Air India,AI-2642,Bengaluru(BLR),Mumbai(BOM),15/09/2026,21:30,15/09/2026,23:35,02h 05m,0,-,6977
+bang_mum_15.csv,2026-09-15,IndiGo,6E-5376,Bengaluru(BLR),Mumbai(BOM),15/09/2026,20:15,15/09/2026,22:00,01h 45m,0,-,6982
+bang_mum_15.csv,2026-09-15,IndiGo,6E-5255,Bengaluru(BLR),Mumbai(BOM),15/09/2026,17:25,15/09/2026,19:05,01h 40m,0,-,6982
+bang_mum_15.csv,2026-09-15,IndiGo,6E-5351,Bengaluru(BLR),Mumbai(BOM),15/09/2026,14:20,15/09/2026,16:05,01h 45m,0,-,6982
+bang_mum_15.csv,2026-09-15,IndiGo,6E-5031,Bengaluru(BLR),Mumbai(BOM),15/09/2026,16:00,15/09/2026,17:45,01h 45m,0,-,6982
+bang_mum_15.csv,2026-09-15,Akasa Air,QP-1381,Bengaluru(BLR),Mumbai(BOM),15/09/2026,04:50,15/09/2026,06:45,01h 55m,0,-,7002
+bang_mum_15.csv,2026-09-15,Akasa Air,QP-1150,Bengaluru(BLR),Mumbai(BOM),15/09/2026,16:05,15/09/2026,18:05,02h 00m,0,-,7002
+bang_mum_15.csv,2026-09-15,Air India Express,IX-2881,Bengaluru(BLR),Navi Mumbai(NMI),15/09/2026,05:50,15/09/2026,19:45,13h 55m,2,"Guwahati, New Delhi",8396
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6283,Bengaluru(BLR),Mumbai(BOM),15/09/2026,19:05,15/09/2026,20:40,01h 35m,0,-,7297
+bang_mum_15.csv,2026-09-15,IndiGo,6E-5218,Bengaluru(BLR),Mumbai(BOM),15/09/2026,13:00,15/09/2026,14:50,01h 50m,0,-,7297
+bang_mum_15.csv,2026-09-15,IndiGo,6E-5237,Bengaluru(BLR),Mumbai(BOM),15/09/2026,10:15,15/09/2026,12:05,01h 50m,0,-,7297
+bang_mum_15.csv,2026-09-15,IndiGo,6E-5069,Bengaluru(BLR),Mumbai(BOM),15/09/2026,11:30,15/09/2026,13:20,01h 50m,0,-,7297
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6753,Bengaluru(BLR),Mumbai(BOM),15/09/2026,15:15,15/09/2026,19:55,04h 40m,1,Goa,7308
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6653,Bengaluru(BLR),Mumbai(BOM),15/09/2026,12:35,15/09/2026,17:50,05h 15m,1,Goa,7308
+bang_mum_15.csv,2026-09-15,IndiGo,6E-5293,Bengaluru(BLR),Mumbai(BOM),15/09/2026,01:00,15/09/2026,02:50,01h 50m,0,-,7419
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6162,Bengaluru(BLR),Mumbai(BOM),15/09/2026,18:50,15/09/2026,22:50,04h 00m,1,Mangalore,7439
+bang_mum_15.csv,2026-09-15,IndiGo,6E-109,Bengaluru(BLR),Mumbai(BOM),15/09/2026,17:00,15/09/2026,22:50,05h 50m,1,Mangalore,7439
+bang_mum_15.csv,2026-09-15,IndiGo,6E-855,Bengaluru(BLR),Mumbai(BOM),15/09/2026,19:45,16/09/2026,01:00,05h 15m,1,Hyderabad,7439
+bang_mum_15.csv,2026-09-15,IndiGo,6E-638,Bengaluru(BLR),Mumbai(BOM),15/09/2026,18:35,16/09/2026,01:00,06h 25m,1,Hyderabad,7439
+bang_mum_15.csv,2026-09-15,Air India,AI-2850,Bengaluru(BLR),Mumbai(BOM),15/09/2026,20:30,15/09/2026,22:40,02h 10m,0,-,7469
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6863,Bengaluru(BLR),Mumbai(BOM),15/09/2026,08:20,15/09/2026,13:45,05h 25m,1,Nagpur,7570
+bang_mum_15.csv,2026-09-15,Akasa Air,QP-1383,Bengaluru(BLR),Mumbai(BOM),15/09/2026,05:25,15/09/2026,07:10,01h 45m,0,-,7583
+bang_mum_15.csv,2026-09-15,Akasa Air,QP-1528,Bengaluru(BLR),Mumbai(BOM),15/09/2026,10:20,15/09/2026,12:10,01h 50m,0,-,7583
+bang_mum_15.csv,2026-09-15,Air India,AI-2854,Bengaluru(BLR),Mumbai(BOM),15/09/2026,18:05,15/09/2026,20:05,02h 00m,0,-,7591
+bang_mum_15.csv,2026-09-15,Air India,AI-2858,Bengaluru(BLR),Mumbai(BOM),15/09/2026,02:20,15/09/2026,04:10,01h 50m,0,-,7642
+bang_mum_15.csv,2026-09-15,Air India,AI-2840,Bengaluru(BLR),Mumbai(BOM),15/09/2026,22:30,16/09/2026,00:35,02h 05m,0,-,7642
+bang_mum_15.csv,2026-09-15,IndiGo,6E-904,Bengaluru(BLR),Mumbai(BOM),15/09/2026,10:50,15/09/2026,14:45,03h 55m,1,Chennai,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6017,Bengaluru(BLR),Mumbai(BOM),15/09/2026,18:15,15/09/2026,22:15,04h 00m,1,Chennai,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6423,Bengaluru(BLR),Mumbai(BOM),15/09/2026,20:00,16/09/2026,00:30,04h 30m,1,Ahmedabad,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6507,Bengaluru(BLR),Mumbai(BOM),15/09/2026,13:15,15/09/2026,17:25,04h 10m,1,Hirasar,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6077,Bengaluru(BLR),Mumbai(BOM),15/09/2026,20:20,16/09/2026,00:30,04h 10m,1,Chennai,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-356,Bengaluru(BLR),Mumbai(BOM),15/09/2026,17:15,15/09/2026,22:15,05h 00m,1,Chennai,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6012,Bengaluru(BLR),Mumbai(BOM),15/09/2026,19:30,16/09/2026,00:30,05h 00m,1,Chennai,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-182,Bengaluru(BLR),Mumbai(BOM),15/09/2026,15:00,15/09/2026,20:15,05h 15m,1,Chennai,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-904,Bengaluru(BLR),Mumbai(BOM),15/09/2026,10:50,15/09/2026,16:40,05h 50m,1,Chennai,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6269,Bengaluru(BLR),Mumbai(BOM),15/09/2026,07:15,15/09/2026,13:00,05h 45m,1,Chennai,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6208,Bengaluru(BLR),Mumbai(BOM),15/09/2026,12:50,15/09/2026,18:40,05h 50m,1,Chennai,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-602,Bengaluru(BLR),Mumbai(BOM),15/09/2026,14:40,15/09/2026,20:15,05h 35m,1,Coimbatore,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-807,Bengaluru(BLR),Mumbai(BOM),15/09/2026,15:40,15/09/2026,22:25,06h 45m,1,Vadodara,7649
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6017,Bengaluru(BLR),Mumbai(BOM),15/09/2026,18:15,16/09/2026,00:30,06h 15m,1,Chennai,7649
+bang_mum_15.csv,2026-09-15,Air India,AI-2610,Bengaluru(BLR),Mumbai(BOM),15/09/2026,19:00,15/09/2026,21:05,02h 05m,0,-,7651
+bang_mum_15.csv,2026-09-15,Air India,AI-2852,Bengaluru(BLR),Mumbai(BOM),15/09/2026,10:30,15/09/2026,12:35,02h 05m,0,-,7662
+bang_mum_15.csv,2026-09-15,Air India Express,IX-2931,Bengaluru(BLR),Navi Mumbai(NMI),15/09/2026,08:25,15/09/2026,19:45,11h 20m,2,"Guwahati, New Delhi",8997
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6653,Bengaluru(BLR),Navi Mumbai(NMI),15/09/2026,12:35,15/09/2026,18:55,06h 20m,1,Goa,7698
+bang_mum_15.csv,2026-09-15,IndiGo,6E-747,Bengaluru(BLR),Mumbai(BOM),15/09/2026,17:55,15/09/2026,23:45,05h 50m,1,Indore,7780
+bang_mum_15.csv,2026-09-15,Air India,AI-2630,Bengaluru(BLR),Mumbai(BOM),15/09/2026,12:05,15/09/2026,14:05,02h 00m,0,-,7790
+bang_mum_15.csv,2026-09-15,IndiGo,6E-5205,Bengaluru(BLR),Mumbai(BOM),15/09/2026,03:45,15/09/2026,05:30,01h 45m,0,-,8154
+bang_mum_15.csv,2026-09-15,IndiGo,6E-763,Bengaluru(BLR),Mumbai(BOM),15/09/2026,07:05,15/09/2026,12:50,05h 45m,1,Kochi,8191
+bang_mum_15.csv,2026-09-15,IndiGo,6E-5051,Bengaluru(BLR),Mumbai(BOM),15/09/2026,08:30,15/09/2026,10:15,01h 45m,0,-,8452
+bang_mum_15.csv,2026-09-15,IndiGo,6E-7445,Bengaluru(BLR),Navi Mumbai(NMI),15/09/2026,15:20,15/09/2026,21:50,06h 30m,1,Kolhapur,8519
+bang_mum_15.csv,2026-09-15,Air India,AI-2604,Bengaluru(BLR),Mumbai(BOM),15/09/2026,09:15,15/09/2026,11:15,02h 00m,0,-,8540
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6067,Bengaluru(BLR),Mumbai(BOM),15/09/2026,16:30,15/09/2026,20:30,04h 00m,1,Hyderabad,8572
+bang_mum_15.csv,2026-09-15,IndiGo,6E-586,Bengaluru(BLR),Mumbai(BOM),15/09/2026,05:10,15/09/2026,10:30,05h 20m,1,Ahmedabad,8782
+bang_mum_15.csv,2026-09-15,IndiGo,6E-239,Bengaluru(BLR),Mumbai(BOM),15/09/2026,16:50,15/09/2026,23:00,06h 10m,1,Ahmedabad,8782
+bang_mum_15.csv,2026-09-15,IndiGo,6E-5089,Bengaluru(BLR),Mumbai(BOM),15/09/2026,05:30,15/09/2026,07:15,01h 45m,0,-,8889
+bang_mum_15.csv,2026-09-15,Akasa Air,QP-1515,Bengaluru(BLR),Mumbai(BOM),15/09/2026,06:20,15/09/2026,08:00,01h 40m,0,-,8913
+bang_mum_15.csv,2026-09-15,Air India,AI-9524,Bengaluru(BLR),Mumbai(BOM),15/09/2026,17:15,15/09/2026,23:10,05h 55m,1,Goa,9108
+bang_mum_15.csv,2026-09-15,Air India,AI-9520,Bengaluru(BLR),Mumbai(BOM),15/09/2026,13:05,15/09/2026,23:10,10h 05m,1,Goa,9108
+bang_mum_15.csv,2026-09-15,Air India,AI-9524,Bengaluru(BLR),Mumbai(BOM),15/09/2026,17:15,16/09/2026,08:30,15h 15m,1,Goa,9108
+bang_mum_15.csv,2026-09-15,Air India,AI-9520,Bengaluru(BLR),Mumbai(BOM),15/09/2026,13:05,16/09/2026,08:30,19h 25m,1,Goa,9108
+bang_mum_15.csv,2026-09-15,Air India Express,IX-1386,Bengaluru(BLR),Mumbai(BOM),15/09/2026,13:05,15/09/2026,19:50,06h 45m,1,Goa,9290
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6595,Bengaluru(BLR),Mumbai(BOM),15/09/2026,13:55,15/09/2026,18:25,04h 30m,1,Ahmedabad,9427
+bang_mum_15.csv,2026-09-15,IndiGo,6E-5216,Bengaluru(BLR),Mumbai(BOM),15/09/2026,07:25,15/09/2026,09:10,01h 45m,0,-,9502
+bang_mum_15.csv,2026-09-15,Air India Express,IX-5986,Bengaluru(BLR),Mumbai(BOM),15/09/2026,02:45,15/09/2026,04:35,01h 50m,0,-,10133
+bang_mum_15.csv,2026-09-15,Air India Express,IX-1360,Bengaluru(BLR),Navi Mumbai(NMI),15/09/2026,20:55,15/09/2026,22:40,01h 45m,0,-,11633
+bang_mum_15.csv,2026-09-15,Akasa Air,QP-1517,Bengaluru(BLR),Mumbai(BOM),15/09/2026,07:40,15/09/2026,09:25,01h 45m,0,-,10503
+bang_mum_15.csv,2026-09-15,Air India,AI-2402,Bengaluru(BLR),Mumbai(BOM),15/09/2026,06:35,15/09/2026,08:35,02h 00m,0,-,10832
+bang_mum_15.csv,2026-09-15,Air India,AI-9566,Bengaluru(BLR),Mumbai(BOM),15/09/2026,22:40,16/09/2026,13:25,14h 45m,1,Hyderabad,11188
+bang_mum_15.csv,2026-09-15,Air India,AI-9566,Bengaluru(BLR),Mumbai(BOM),15/09/2026,22:40,16/09/2026,16:25,17h 45m,1,Hyderabad,11188
+bang_mum_15.csv,2026-09-15,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),15/09/2026,12:40,15/09/2026,18:20,05h 40m,1,Chennai,11284
+bang_mum_15.csv,2026-09-15,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),15/09/2026,14:45,15/09/2026,23:30,08h 45m,1,Chennai,11284
+bang_mum_15.csv,2026-09-15,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),15/09/2026,12:40,15/09/2026,23:30,10h 50m,1,Chennai,11284
+bang_mum_15.csv,2026-09-15,Air India,AI-9478,Bengaluru(BLR),Mumbai(BOM),15/09/2026,22:10,16/09/2026,18:20,20h 10m,1,Chennai,11284
+bang_mum_15.csv,2026-09-15,Air India,AI-9762,Bengaluru(BLR),Mumbai(BOM),15/09/2026,07:05,15/09/2026,18:20,11h 15m,1,Chennai,11485
+bang_mum_15.csv,2026-09-15,Air India,AI-9762,Bengaluru(BLR),Mumbai(BOM),15/09/2026,07:05,15/09/2026,23:30,16h 25m,1,Chennai,11485
+bang_mum_15.csv,2026-09-15,Air India,AI-9480,Bengaluru(BLR),Mumbai(BOM),15/09/2026,08:40,15/09/2026,18:20,09h 40m,1,Chennai,11695
+bang_mum_15.csv,2026-09-15,Air India,AI-9480,Bengaluru(BLR),Mumbai(BOM),15/09/2026,08:40,15/09/2026,23:30,14h 50m,1,Chennai,11695
+bang_mum_15.csv,2026-09-15,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),15/09/2026,14:45,15/09/2026,19:10,04h 25m,1,Chennai,11704
+bang_mum_15.csv,2026-09-15,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),15/09/2026,12:40,15/09/2026,19:10,06h 30m,1,Chennai,11704
+bang_mum_15.csv,2026-09-15,Air India,AI-9762,Bengaluru(BLR),Mumbai(BOM),15/09/2026,07:05,15/09/2026,19:10,12h 05m,1,Chennai,11905
+bang_mum_15.csv,2026-09-15,Air India,AI-9480,Bengaluru(BLR),Mumbai(BOM),15/09/2026,08:40,15/09/2026,19:10,10h 30m,1,Chennai,12115
+bang_mum_15.csv,2026-09-15,Air India Express,IX-2678,Bengaluru(BLR),Mumbai(BOM),15/09/2026,05:30,15/09/2026,10:15,04h 45m,1,Kochi,12221
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6891,Bengaluru(BLR),Mumbai(BOM),15/09/2026,17:15,15/09/2026,22:20,05h 05m,1,Nagpur,12629
+bang_mum_15.csv,2026-09-15,Air India,AI-9453,Bengaluru(BLR),Mumbai(BOM),15/09/2026,21:35,16/09/2026,15:05,17h 30m,1,Kochi,12701
+bang_mum_15.csv,2026-09-15,Air India,AI-9520,Bengaluru(BLR),Mumbai(BOM),15/09/2026,13:05,15/09/2026,18:55,05h 50m,1,Goa,12791
+bang_mum_15.csv,2026-09-15,Air India Express,IX-2116,Bengaluru(BLR),Mumbai(BOM),15/09/2026,21:35,16/09/2026,10:15,12h 40m,1,Kochi,12868
+bang_mum_15.csv,2026-09-15,Air India,AI-9605,Bengaluru(BLR),Mumbai(BOM),15/09/2026,14:25,15/09/2026,20:00,05h 35m,1,Indore,13087
+bang_mum_15.csv,2026-09-15,IndiGo,6E-537,Bengaluru(BLR),Mumbai(BOM),15/09/2026,10:15,15/09/2026,14:25,04h 10m,1,Hyderabad,14542
+bang_mum_15.csv,2026-09-15,IndiGo,6E-537,Bengaluru(BLR),Mumbai(BOM),15/09/2026,10:15,15/09/2026,15:55,05h 40m,1,Hyderabad,14542
+bang_mum_15.csv,2026-09-15,Air India,AI-9568,Bengaluru(BLR),Mumbai(BOM),15/09/2026,17:15,15/09/2026,22:30,05h 15m,1,Hyderabad,14619
+bang_mum_15.csv,2026-09-15,Air India,AI-9455,Bengaluru(BLR),Mumbai(BOM),15/09/2026,08:40,15/09/2026,15:00,06h 20m,1,Kochi,14620
+bang_mum_15.csv,2026-09-15,Air India,AI-9434,Bengaluru(BLR),Mumbai(BOM),15/09/2026,06:15,15/09/2026,13:40,07h 25m,1,Ahmedabad,15098
+bang_mum_15.csv,2026-09-15,Air India,AI-428,Bengaluru(BLR),Mumbai(BOM),15/09/2026,15:30,15/09/2026,21:25,05h 55m,1,New Delhi,15380
+bang_mum_15.csv,2026-09-15,Air India,AI-2486,Bengaluru(BLR),Mumbai(BOM),15/09/2026,14:00,15/09/2026,20:25,06h 25m,1,New Delhi,15380
+bang_mum_15.csv,2026-09-15,Air India,AI-2511,Bengaluru(BLR),Mumbai(BOM),15/09/2026,15:00,15/09/2026,21:25,06h 25m,1,New Delhi,15380
+bang_mum_15.csv,2026-09-15,Air India,AI-428,Bengaluru(BLR),Mumbai(BOM),15/09/2026,15:30,15/09/2026,21:55,06h 25m,1,New Delhi,15380
+bang_mum_15.csv,2026-09-15,Air India,AI-2820,Bengaluru(BLR),Mumbai(BOM),15/09/2026,17:25,15/09/2026,23:55,06h 30m,1,New Delhi,15380
+bang_mum_15.csv,2026-09-15,Air India,AI-2418,Bengaluru(BLR),Mumbai(BOM),15/09/2026,16:30,15/09/2026,23:20,06h 50m,1,New Delhi,15380
+bang_mum_15.csv,2026-09-15,Air India,AI-2418,Bengaluru(BLR),Mumbai(BOM),15/09/2026,16:30,15/09/2026,23:05,06h 35m,1,New Delhi,15539
+bang_mum_15.csv,2026-09-15,Air India,AI-2414,Bengaluru(BLR),Mumbai(BOM),15/09/2026,05:30,15/09/2026,12:00,06h 30m,1,New Delhi,15686
+bang_mum_15.csv,2026-09-15,Air India,AI-2414,Bengaluru(BLR),Mumbai(BOM),15/09/2026,05:30,15/09/2026,12:25,06h 55m,1,New Delhi,15686
+bang_mum_15.csv,2026-09-15,IndiGo,6E-484,Bengaluru(BLR),Mumbai(BOM),15/09/2026,08:15,15/09/2026,14:25,06h 10m,1,Hyderabad,15736
+bang_mum_15.csv,2026-09-15,Air India,AI-9762,Bengaluru(BLR),Mumbai(BOM),15/09/2026,07:05,15/09/2026,11:55,04h 50m,1,Chennai,15875
+bang_mum_15.csv,2026-09-15,IndiGo,6E-7005,Bengaluru(BLR),Mumbai(BOM),15/09/2026,08:05,15/09/2026,12:50,04h 45m,1,Kochi,15946
+bang_mum_15.csv,2026-09-15,Air India,AI-9708,Bengaluru(BLR),Mumbai(BOM),15/09/2026,10:05,15/09/2026,15:40,05h 35m,1,Jaipur,16269
+bang_mum_15.csv,2026-09-15,Air India,AI-9437,Bengaluru(BLR),Mumbai(BOM),15/09/2026,07:05,15/09/2026,13:35,06h 30m,1,Kolkata,16634
+bang_mum_15.csv,2026-09-15,IndiGo,6E-312,Bengaluru(BLR),Mumbai(BOM),15/09/2026,09:15,15/09/2026,14:25,05h 10m,1,Hyderabad,17039
+bang_mum_15.csv,2026-09-15,IndiGo,6E-312,Bengaluru(BLR),Mumbai(BOM),15/09/2026,09:15,15/09/2026,15:55,06h 40m,1,Hyderabad,17039
+bang_mum_15.csv,2026-09-15,Air India Express,IX-2608,Bengaluru(BLR),Mumbai(BOM),15/09/2026,16:15,16/09/2026,01:15,09h 00m,1,Kochi,18545
+bang_mum_15.csv,2026-09-15,Air India,AI-9490,Bengaluru(BLR),Mumbai(BOM),15/09/2026,10:40,15/09/2026,20:30,09h 50m,1,Chandigarh,18950
+bang_mum_15.csv,2026-09-15,Air India,AI-2810,Bengaluru(BLR),Mumbai(BOM),15/09/2026,06:00,15/09/2026,12:00,06h 00m,1,New Delhi,19289
+bang_mum_15.csv,2026-09-15,Air India,AI-2810,Bengaluru(BLR),Mumbai(BOM),15/09/2026,06:00,15/09/2026,12:25,06h 25m,1,New Delhi,19289
+bang_mum_15.csv,2026-09-15,Air India,AI-9898,Bengaluru(BLR),Mumbai(BOM),15/09/2026,10:20,15/09/2026,16:50,06h 30m,1,Patna,19660
+bang_mum_15.csv,2026-09-15,Air India,AI-2868,Bengaluru(BLR),Mumbai(BOM),15/09/2026,09:00,15/09/2026,15:50,06h 50m,1,New Delhi,21140
+bang_mum_15.csv,2026-09-15,Air India,AI-9602,Bengaluru(BLR),Mumbai(BOM),15/09/2026,09:15,15/09/2026,17:25,08h 10m,1,Dehra Dun,21155
+bang_mum_15.csv,2026-09-15,IndiGo,6E-6178,Bengaluru(BLR),Mumbai(BOM),15/09/2026,06:25,15/09/2026,10:55,04h 30m,1,Hyderabad,22271
+bang_mum_15.csv,2026-09-15,Air India,AI-9457,Bengaluru(BLR),Mumbai(BOM),15/09/2026,16:15,15/09/2026,22:25,06h 10m,1,Kochi,22556
+bang_mum_15.csv,2026-09-15,Air India,AI-2654,Bengaluru(BLR),Mumbai(BOM),15/09/2026,07:00,15/09/2026,13:25,06h 25m,1,New Delhi,22819
+bang_mum_19.csv,2026-09-19,Air India,AI-3306,Bengaluru(BLR),Mumbai(BOM),19/09/2026,02:25,19/09/2026,04:25,02h 00m,0,-,5316
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6030,Bengaluru(BLR),Navi Mumbai(NMI),19/09/2026,15:00,19/09/2026,16:40,01h 40m,0,-,5634
+bang_mum_19.csv,2026-09-19,Air India,AI-2811,Bengaluru(BLR),Mumbai(BOM),19/09/2026,23:40,20/09/2026,01:45,02h 05m,0,-,5643
+bang_mum_19.csv,2026-09-19,IndiGo,6E-2086,Bengaluru(BLR),Navi Mumbai(NMI),19/09/2026,09:20,19/09/2026,10:55,01h 35m,0,-,6023
+bang_mum_19.csv,2026-09-19,IndiGo,6E-5293,Bengaluru(BLR),Mumbai(BOM),19/09/2026,01:00,19/09/2026,02:50,01h 50m,0,-,6159
+bang_mum_19.csv,2026-09-19,IndiGo,6E-5205,Bengaluru(BLR),Mumbai(BOM),19/09/2026,03:45,19/09/2026,05:30,01h 45m,0,-,6159
+bang_mum_19.csv,2026-09-19,Akasa Air,QP-1381,Bengaluru(BLR),Mumbai(BOM),19/09/2026,04:50,19/09/2026,06:45,01h 55m,0,-,6225
+bang_mum_19.csv,2026-09-19,Air India,AI-2858,Bengaluru(BLR),Mumbai(BOM),19/09/2026,02:20,19/09/2026,04:10,01h 50m,0,-,6442
+bang_mum_19.csv,2026-09-19,Air India Express,IX-1581,Bengaluru(BLR),Navi Mumbai(NMI),19/09/2026,18:40,19/09/2026,20:25,01h 45m,0,-,6534
+bang_mum_19.csv,2026-09-19,Akasa Air,QP-1515,Bengaluru(BLR),Mumbai(BOM),19/09/2026,06:20,19/09/2026,08:00,01h 40m,0,-,6732
+bang_mum_19.csv,2026-09-19,Akasa Air,QP-1134,Bengaluru(BLR),Mumbai(BOM),19/09/2026,22:55,20/09/2026,00:45,01h 50m,0,-,6732
+bang_mum_19.csv,2026-09-19,IndiGo,6E-5089,Bengaluru(BLR),Mumbai(BOM),19/09/2026,05:30,19/09/2026,07:15,01h 45m,0,-,6789
+bang_mum_19.csv,2026-09-19,Air India,AI-2642,Bengaluru(BLR),Mumbai(BOM),19/09/2026,21:30,19/09/2026,23:35,02h 05m,0,-,6977
+bang_mum_19.csv,2026-09-19,IndiGo,6E-5218,Bengaluru(BLR),Mumbai(BOM),19/09/2026,13:00,19/09/2026,14:50,01h 50m,0,-,6982
+bang_mum_19.csv,2026-09-19,IndiGo,6E-5051,Bengaluru(BLR),Mumbai(BOM),19/09/2026,08:30,19/09/2026,10:15,01h 45m,0,-,6982
+bang_mum_19.csv,2026-09-19,IndiGo,6E-5216,Bengaluru(BLR),Mumbai(BOM),19/09/2026,07:25,19/09/2026,09:10,01h 45m,0,-,6982
+bang_mum_19.csv,2026-09-19,Akasa Air,QP-1383,Bengaluru(BLR),Mumbai(BOM),19/09/2026,05:25,19/09/2026,07:10,01h 45m,0,-,7002
+bang_mum_19.csv,2026-09-19,Akasa Air,QP-1517,Bengaluru(BLR),Mumbai(BOM),19/09/2026,07:40,19/09/2026,09:25,01h 45m,0,-,7002
+bang_mum_19.csv,2026-09-19,Air India,AI-2840,Bengaluru(BLR),Mumbai(BOM),19/09/2026,22:30,20/09/2026,00:35,02h 05m,0,-,7041
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6554,Bengaluru(BLR),Navi Mumbai(NMI),19/09/2026,19:15,19/09/2026,23:00,03h 45m,1,Goa,7270
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6168,Bengaluru(BLR),Navi Mumbai(NMI),19/09/2026,17:40,19/09/2026,23:00,05h 20m,1,Goa,7270
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6753,Bengaluru(BLR),Navi Mumbai(NMI),19/09/2026,15:15,19/09/2026,23:00,07h 45m,1,Goa,7270
+bang_mum_19.csv,2026-09-19,IndiGo,6E-5376,Bengaluru(BLR),Mumbai(BOM),19/09/2026,20:15,19/09/2026,22:00,01h 45m,0,-,7297
+bang_mum_19.csv,2026-09-19,IndiGo,6E-5237,Bengaluru(BLR),Mumbai(BOM),19/09/2026,10:15,19/09/2026,12:05,01h 50m,0,-,7297
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6753,Bengaluru(BLR),Mumbai(BOM),19/09/2026,15:15,19/09/2026,19:55,04h 40m,1,Goa,7308
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6554,Bengaluru(BLR),Mumbai(BOM),19/09/2026,19:15,20/09/2026,01:25,06h 10m,1,Goa,7308
+bang_mum_19.csv,2026-09-19,Air India,AI-2402,Bengaluru(BLR),Mumbai(BOM),19/09/2026,06:35,19/09/2026,08:35,02h 00m,0,-,7347
+bang_mum_19.csv,2026-09-19,Air India,AI-2411,Bengaluru(BLR),Mumbai(BOM),19/09/2026,08:20,19/09/2026,10:20,02h 00m,0,-,7347
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6162,Bengaluru(BLR),Mumbai(BOM),19/09/2026,18:50,19/09/2026,22:50,04h 00m,1,Mangalore,7439
+bang_mum_19.csv,2026-09-19,IndiGo,6E-109,Bengaluru(BLR),Mumbai(BOM),19/09/2026,17:00,19/09/2026,22:50,05h 50m,1,Mangalore,7439
+bang_mum_19.csv,2026-09-19,Air India,AI-2604,Bengaluru(BLR),Mumbai(BOM),19/09/2026,09:15,19/09/2026,11:15,02h 00m,0,-,7469
+bang_mum_19.csv,2026-09-19,Air India,AI-2852,Bengaluru(BLR),Mumbai(BOM),19/09/2026,10:30,19/09/2026,12:35,02h 05m,0,-,7530
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6863,Bengaluru(BLR),Mumbai(BOM),19/09/2026,08:20,19/09/2026,13:45,05h 25m,1,Nagpur,7570
+bang_mum_19.csv,2026-09-19,Akasa Air,QP-1528,Bengaluru(BLR),Mumbai(BOM),19/09/2026,10:20,19/09/2026,12:10,01h 50m,0,-,7583
+bang_mum_19.csv,2026-09-19,Air India,AI-2854,Bengaluru(BLR),Mumbai(BOM),19/09/2026,18:05,19/09/2026,20:05,02h 00m,0,-,7591
+bang_mum_19.csv,2026-09-19,Air India,AI-2610,Bengaluru(BLR),Mumbai(BOM),19/09/2026,19:00,19/09/2026,21:05,02h 05m,0,-,7591
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6283,Bengaluru(BLR),Mumbai(BOM),19/09/2026,19:05,19/09/2026,20:40,01h 35m,0,-,7612
+bang_mum_19.csv,2026-09-19,IndiGo,6E-5255,Bengaluru(BLR),Mumbai(BOM),19/09/2026,17:25,19/09/2026,19:05,01h 40m,0,-,7612
+bang_mum_19.csv,2026-09-19,IndiGo,6E-5031,Bengaluru(BLR),Mumbai(BOM),19/09/2026,16:00,19/09/2026,17:45,01h 45m,0,-,7612
+bang_mum_19.csv,2026-09-19,IndiGo,6E-5069,Bengaluru(BLR),Mumbai(BOM),19/09/2026,11:30,19/09/2026,13:20,01h 50m,0,-,7612
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6595,Bengaluru(BLR),Mumbai(BOM),19/09/2026,13:55,19/09/2026,18:25,04h 30m,1,Ahmedabad,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6507,Bengaluru(BLR),Mumbai(BOM),19/09/2026,13:15,19/09/2026,17:25,04h 10m,1,Hirasar,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6423,Bengaluru(BLR),Mumbai(BOM),19/09/2026,20:00,20/09/2026,00:30,04h 30m,1,Ahmedabad,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6077,Bengaluru(BLR),Mumbai(BOM),19/09/2026,20:20,20/09/2026,00:30,04h 10m,1,Chennai,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6012,Bengaluru(BLR),Mumbai(BOM),19/09/2026,19:30,20/09/2026,00:30,05h 00m,1,Chennai,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-586,Bengaluru(BLR),Mumbai(BOM),19/09/2026,05:10,19/09/2026,10:30,05h 20m,1,Ahmedabad,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-763,Bengaluru(BLR),Mumbai(BOM),19/09/2026,07:05,19/09/2026,12:50,05h 45m,1,Kochi,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6269,Bengaluru(BLR),Mumbai(BOM),19/09/2026,07:15,19/09/2026,13:00,05h 45m,1,Chennai,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6104,Bengaluru(BLR),Mumbai(BOM),19/09/2026,11:40,19/09/2026,17:05,05h 25m,1,Kochi,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6208,Bengaluru(BLR),Mumbai(BOM),19/09/2026,12:50,19/09/2026,18:40,05h 50m,1,Chennai,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-239,Bengaluru(BLR),Mumbai(BOM),19/09/2026,16:50,19/09/2026,23:00,06h 10m,1,Ahmedabad,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6017,Bengaluru(BLR),Mumbai(BOM),19/09/2026,18:15,20/09/2026,00:30,06h 15m,1,Chennai,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6445,Bengaluru(BLR),Mumbai(BOM),19/09/2026,10:25,19/09/2026,17:05,06h 40m,1,Kochi,7649
+bang_mum_19.csv,2026-09-19,IndiGo,6E-747,Bengaluru(BLR),Mumbai(BOM),19/09/2026,17:55,19/09/2026,23:45,05h 50m,1,Indore,7780
+bang_mum_19.csv,2026-09-19,Air India,AI-2850,Bengaluru(BLR),Mumbai(BOM),19/09/2026,20:30,19/09/2026,22:40,02h 10m,0,-,7790
+bang_mum_19.csv,2026-09-19,IndiGo,6E-5351,Bengaluru(BLR),Mumbai(BOM),19/09/2026,14:20,19/09/2026,16:05,01h 45m,0,-,8032
+bang_mum_19.csv,2026-09-19,IndiGo,6E-7005,Bengaluru(BLR),Mumbai(BOM),19/09/2026,08:05,19/09/2026,12:50,04h 45m,1,Kochi,8191
+bang_mum_19.csv,2026-09-19,Air India Express,IX-2931,Bengaluru(BLR),Navi Mumbai(NMI),19/09/2026,08:25,19/09/2026,19:45,11h 20m,2,"Guwahati, New Delhi",9797
+bang_mum_19.csv,2026-09-19,IndiGo,6E-7445,Bengaluru(BLR),Navi Mumbai(NMI),19/09/2026,15:20,19/09/2026,21:50,06h 30m,1,Kolhapur,8519
+bang_mum_19.csv,2026-09-19,Air India,AI-2630,Bengaluru(BLR),Mumbai(BOM),19/09/2026,12:05,19/09/2026,14:05,02h 00m,0,-,8540
+bang_mum_19.csv,2026-09-19,Air India Express,IX-2678,Bengaluru(BLR),Mumbai(BOM),19/09/2026,05:30,19/09/2026,10:15,04h 45m,1,Kochi,8902
+bang_mum_19.csv,2026-09-19,Air India Express,IX-2881,Bengaluru(BLR),Navi Mumbai(NMI),19/09/2026,05:50,19/09/2026,19:45,13h 55m,2,"Guwahati, New Delhi",10597
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6653,Bengaluru(BLR),Mumbai(BOM),19/09/2026,12:35,19/09/2026,17:50,05h 15m,1,Goa,10063
+bang_mum_19.csv,2026-09-19,Air India Express,IX-1360,Bengaluru(BLR),Navi Mumbai(NMI),19/09/2026,20:55,19/09/2026,22:40,01h 45m,0,-,11633
+bang_mum_19.csv,2026-09-19,Air India,AI-9840,Bengaluru(BLR),Mumbai(BOM),19/09/2026,06:10,19/09/2026,20:10,14h 00m,1,Vijayawada,10271
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6653,Bengaluru(BLR),Navi Mumbai(NMI),19/09/2026,12:35,19/09/2026,23:00,10h 25m,1,Goa,10463
+bang_mum_19.csv,2026-09-19,Air India,AI-9568,Bengaluru(BLR),Mumbai(BOM),19/09/2026,17:15,20/09/2026,07:45,14h 30m,1,Hyderabad,10573
+bang_mum_19.csv,2026-09-19,Air India,AI-9568,Bengaluru(BLR),Mumbai(BOM),19/09/2026,17:15,20/09/2026,09:15,16h 00m,1,Hyderabad,10573
+bang_mum_19.csv,2026-09-19,IndiGo,6E-638,Bengaluru(BLR),Mumbai(BOM),19/09/2026,18:35,20/09/2026,01:00,06h 25m,1,Hyderabad,10691
+bang_mum_19.csv,2026-09-19,Air India,AI-9566,Bengaluru(BLR),Mumbai(BOM),19/09/2026,19:15,20/09/2026,07:45,12h 30m,1,Hyderabad,10878
+bang_mum_19.csv,2026-09-19,Air India,AI-9566,Bengaluru(BLR),Mumbai(BOM),19/09/2026,19:15,20/09/2026,09:15,14h 00m,1,Hyderabad,10878
+bang_mum_19.csv,2026-09-19,Air India Express,IX-2608,Bengaluru(BLR),Mumbai(BOM),19/09/2026,16:15,20/09/2026,01:15,09h 00m,1,Kochi,11121
+bang_mum_19.csv,2026-09-19,Air India,AI-9762,Bengaluru(BLR),Mumbai(BOM),19/09/2026,07:05,19/09/2026,11:55,04h 50m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),19/09/2026,12:40,19/09/2026,18:20,05h 40m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9480,Bengaluru(BLR),Mumbai(BOM),19/09/2026,08:40,19/09/2026,18:20,09h 40m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9478,Bengaluru(BLR),Mumbai(BOM),19/09/2026,22:10,20/09/2026,08:15,10h 05m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9762,Bengaluru(BLR),Mumbai(BOM),19/09/2026,07:05,19/09/2026,18:20,11h 15m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9478,Bengaluru(BLR),Mumbai(BOM),19/09/2026,22:10,20/09/2026,09:10,11h 00m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9482,Bengaluru(BLR),Mumbai(BOM),19/09/2026,19:40,20/09/2026,08:15,12h 35m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9482,Bengaluru(BLR),Mumbai(BOM),19/09/2026,19:40,20/09/2026,09:10,13h 30m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),19/09/2026,14:45,20/09/2026,08:15,17h 30m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),19/09/2026,14:45,20/09/2026,09:10,18h 25m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),19/09/2026,12:40,20/09/2026,08:15,19h 35m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),19/09/2026,12:40,20/09/2026,09:10,20h 30m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9480,Bengaluru(BLR),Mumbai(BOM),19/09/2026,08:40,20/09/2026,08:15,23h 35m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9480,Bengaluru(BLR),Mumbai(BOM),19/09/2026,08:40,20/09/2026,09:10,24h 30m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9762,Bengaluru(BLR),Mumbai(BOM),19/09/2026,07:05,20/09/2026,08:15,25h 10m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9762,Bengaluru(BLR),Mumbai(BOM),19/09/2026,07:05,20/09/2026,09:10,26h 05m,1,Chennai,11284
+bang_mum_19.csv,2026-09-19,Air India,AI-9528,Bengaluru(BLR),Mumbai(BOM),19/09/2026,05:20,19/09/2026,18:55,13h 35m,1,Goa,11704
+bang_mum_19.csv,2026-09-19,IndiGo,6E-484,Bengaluru(BLR),Mumbai(BOM),19/09/2026,08:15,19/09/2026,14:25,06h 10m,1,Hyderabad,12109
+bang_mum_19.csv,2026-09-19,Air India,AI-9455,Bengaluru(BLR),Mumbai(BOM),19/09/2026,08:40,19/09/2026,15:00,06h 20m,1,Kochi,12174
+bang_mum_19.csv,2026-09-19,IndiGo,6E-312,Bengaluru(BLR),Mumbai(BOM),19/09/2026,09:15,19/09/2026,15:55,06h 40m,1,Hyderabad,12328
+bang_mum_19.csv,2026-09-19,Air India,AI-9570,Bengaluru(BLR),Mumbai(BOM),19/09/2026,06:05,19/09/2026,16:25,10h 20m,1,Hyderabad,12377
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6178,Bengaluru(BLR),Mumbai(BOM),19/09/2026,06:25,19/09/2026,10:55,04h 30m,1,Hyderabad,12447
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6891,Bengaluru(BLR),Mumbai(BOM),19/09/2026,17:15,19/09/2026,22:20,05h 05m,1,Nagpur,12579
+bang_mum_19.csv,2026-09-19,Air India Express,IX-2116,Bengaluru(BLR),Mumbai(BOM),19/09/2026,21:00,20/09/2026,10:15,13h 15m,1,Kochi,12630
+bang_mum_19.csv,2026-09-19,IndiGo,6E-312,Bengaluru(BLR),Mumbai(BOM),19/09/2026,09:15,19/09/2026,14:25,05h 10m,1,Hyderabad,12643
+bang_mum_19.csv,2026-09-19,Air India Express,IX-1893,Bengaluru(BLR),Mumbai(BOM),19/09/2026,08:40,19/09/2026,18:35,09h 55m,1,Kochi,12868
+bang_mum_19.csv,2026-09-19,Air India Express,IX-2678,Bengaluru(BLR),Mumbai(BOM),19/09/2026,05:30,19/09/2026,18:35,13h 05m,1,Kochi,12868
+bang_mum_19.csv,2026-09-19,Air India,AI-9520,Bengaluru(BLR),Mumbai(BOM),19/09/2026,13:05,19/09/2026,18:55,05h 50m,1,Goa,12904
+bang_mum_19.csv,2026-09-19,Air India,AI-9568,Bengaluru(BLR),Mumbai(BOM),19/09/2026,17:15,19/09/2026,22:30,05h 15m,1,Hyderabad,12922
+bang_mum_19.csv,2026-09-19,Air India,AI-9605,Bengaluru(BLR),Mumbai(BOM),19/09/2026,14:25,19/09/2026,20:00,05h 35m,1,Indore,13087
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6653,Bengaluru(BLR),Navi Mumbai(NMI),19/09/2026,12:35,19/09/2026,18:55,06h 20m,1,Goa,13109
+bang_mum_19.csv,2026-09-19,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),19/09/2026,14:45,19/09/2026,19:10,04h 25m,1,Chennai,13174
+bang_mum_19.csv,2026-09-19,Air India,AI-9480,Bengaluru(BLR),Mumbai(BOM),19/09/2026,08:40,19/09/2026,19:10,10h 30m,1,Chennai,13174
+bang_mum_19.csv,2026-09-19,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),19/09/2026,12:40,19/09/2026,23:30,10h 50m,1,Chennai,13341
+bang_mum_19.csv,2026-09-19,IndiGo,6E-407,Bengaluru(BLR),Mumbai(BOM),19/09/2026,14:50,19/09/2026,18:50,04h 00m,1,Hyderabad,13449
+bang_mum_19.csv,2026-09-19,IndiGo,6E-407,Bengaluru(BLR),Mumbai(BOM),19/09/2026,14:50,19/09/2026,20:30,05h 40m,1,Hyderabad,13449
+bang_mum_19.csv,2026-09-19,IndiGo,6E-855,Bengaluru(BLR),Mumbai(BOM),19/09/2026,19:45,20/09/2026,01:00,05h 15m,1,Hyderabad,13449
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6067,Bengaluru(BLR),Mumbai(BOM),19/09/2026,16:30,19/09/2026,20:30,04h 00m,1,Hyderabad,13516
+bang_mum_19.csv,2026-09-19,Air India,AI-9434,Bengaluru(BLR),Mumbai(BOM),19/09/2026,06:15,19/09/2026,13:40,07h 25m,1,Ahmedabad,14153
+bang_mum_19.csv,2026-09-19,IndiGo,6E-537,Bengaluru(BLR),Mumbai(BOM),19/09/2026,10:15,19/09/2026,15:55,05h 40m,1,Hyderabad,14283
+bang_mum_19.csv,2026-09-19,IndiGo,6E-904,Bengaluru(BLR),Mumbai(BOM),19/09/2026,10:50,19/09/2026,16:40,05h 50m,1,Chennai,14439
+bang_mum_19.csv,2026-09-19,IndiGo,6E-537,Bengaluru(BLR),Mumbai(BOM),19/09/2026,10:15,19/09/2026,14:25,04h 10m,1,Hyderabad,14598
+bang_mum_19.csv,2026-09-19,IndiGo,6E-904,Bengaluru(BLR),Mumbai(BOM),19/09/2026,10:50,19/09/2026,14:45,03h 55m,1,Chennai,14752
+bang_mum_19.csv,2026-09-19,IndiGo,6E-6404,Bengaluru(BLR),Mumbai(BOM),19/09/2026,11:35,19/09/2026,15:55,04h 20m,1,Hyderabad,15946
+bang_mum_19.csv,2026-09-19,Air India,AI-2810,Bengaluru(BLR),Mumbai(BOM),19/09/2026,06:00,19/09/2026,12:00,06h 00m,1,New Delhi,16404
+bang_mum_19.csv,2026-09-19,Air India,AI-2810,Bengaluru(BLR),Mumbai(BOM),19/09/2026,06:00,19/09/2026,12:25,06h 25m,1,New Delhi,16404
+bang_mum_19.csv,2026-09-19,Air India,AI-428,Bengaluru(BLR),Mumbai(BOM),19/09/2026,15:30,19/09/2026,21:25,05h 55m,1,New Delhi,16726
+bang_mum_19.csv,2026-09-19,Air India,AI-428,Bengaluru(BLR),Mumbai(BOM),19/09/2026,15:30,19/09/2026,21:55,06h 25m,1,New Delhi,16726
+bang_mum_19.csv,2026-09-19,Air India,AI-2654,Bengaluru(BLR),Mumbai(BOM),19/09/2026,07:00,19/09/2026,13:25,06h 25m,1,New Delhi,16841
+bang_mum_19.csv,2026-09-19,Air India,AI-2511,Bengaluru(BLR),Mumbai(BOM),19/09/2026,15:00,19/09/2026,21:25,06h 25m,1,New Delhi,16889
+bang_mum_19.csv,2026-09-19,Air India,AI-9457,Bengaluru(BLR),Mumbai(BOM),19/09/2026,16:15,19/09/2026,22:25,06h 10m,1,Kochi,17134
+bang_mum_19.csv,2026-09-19,Air India,AI-2486,Bengaluru(BLR),Mumbai(BOM),19/09/2026,14:00,19/09/2026,20:25,06h 25m,1,New Delhi,17672
+bang_mum_19.csv,2026-09-19,Air India,AI-9898,Bengaluru(BLR),Mumbai(BOM),19/09/2026,10:20,19/09/2026,16:50,06h 30m,1,Patna,18295
+bang_mum_19.csv,2026-09-19,Air India,AI-9524,Bengaluru(BLR),Mumbai(BOM),19/09/2026,17:15,19/09/2026,23:10,05h 55m,1,Goa,18673
+bang_mum_19.csv,2026-09-19,Air India,AI-9708,Bengaluru(BLR),Mumbai(BOM),19/09/2026,10:05,19/09/2026,15:40,05h 35m,1,Jaipur,19609
+bang_mum_19.csv,2026-09-19,Air India,AI-9437,Bengaluru(BLR),Mumbai(BOM),19/09/2026,07:05,19/09/2026,13:35,06h 30m,1,Kolkata,20375
+bang_mum_19.csv,2026-09-19,Air India Express,IX-1539,Bengaluru(BLR),Mumbai(BOM),19/09/2026,05:20,19/09/2026,15:40,10h 20m,1,Goa,23573
+bang_mum_19.csv,2026-09-19,Air India Express,IX-1539,Bengaluru(BLR),Mumbai(BOM),19/09/2026,05:20,19/09/2026,19:50,14h 30m,1,Goa,23573
+bang_mum_19.csv,2026-09-19,Air India Express,IX-1386,Bengaluru(BLR),Mumbai(BOM),19/09/2026,13:05,19/09/2026,19:50,06h 45m,1,Goa,24773
+bang_mum_21.csv,2026-09-21,Air India Express,IX-5986,Bengaluru(BLR),Mumbai(BOM),21/09/2026,02:45,21/09/2026,04:35,01h 50m,0,-,4969
+bang_mum_21.csv,2026-09-21,Air India Express,IX-1360,Bengaluru(BLR),Navi Mumbai(NMI),21/09/2026,20:55,21/09/2026,22:40,01h 45m,0,-,4970
+bang_mum_21.csv,2026-09-21,Air India,AI-2811,Bengaluru(BLR),Mumbai(BOM),21/09/2026,23:40,22/09/2026,01:45,02h 05m,0,-,5055
+bang_mum_21.csv,2026-09-21,Air India,AI-2858,Bengaluru(BLR),Mumbai(BOM),21/09/2026,02:20,21/09/2026,04:10,01h 50m,0,-,4896
+bang_mum_21.csv,2026-09-21,Air India,AI-3306,Bengaluru(BLR),Mumbai(BOM),21/09/2026,02:25,21/09/2026,04:25,02h 00m,0,-,4896
+bang_mum_21.csv,2026-09-21,IndiGo,6E-5293,Bengaluru(BLR),Mumbai(BOM),21/09/2026,01:00,21/09/2026,02:50,01h 50m,0,-,5109
+bang_mum_21.csv,2026-09-21,IndiGo,6E-5205,Bengaluru(BLR),Mumbai(BOM),21/09/2026,03:45,21/09/2026,05:30,01h 45m,0,-,5109
+bang_mum_21.csv,2026-09-21,Akasa Air,QP-1134,Bengaluru(BLR),Mumbai(BOM),21/09/2026,22:55,22/09/2026,00:45,01h 50m,0,-,4950
+bang_mum_21.csv,2026-09-21,Air India,AI-2840,Bengaluru(BLR),Mumbai(BOM),21/09/2026,22:30,22/09/2026,00:35,02h 05m,0,-,5316
+bang_mum_21.csv,2026-09-21,Akasa Air,QP-1381,Bengaluru(BLR),Mumbai(BOM),21/09/2026,04:50,21/09/2026,06:45,01h 55m,0,-,5337
+bang_mum_21.csv,2026-09-21,Air India Express,IX-1581,Bengaluru(BLR),Navi Mumbai(NMI),21/09/2026,18:40,21/09/2026,20:25,01h 45m,0,-,5635
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6030,Bengaluru(BLR),Navi Mumbai(NMI),21/09/2026,15:00,21/09/2026,16:40,01h 40m,0,-,5634
+bang_mum_21.csv,2026-09-21,IndiGo,6E-2086,Bengaluru(BLR),Navi Mumbai(NMI),21/09/2026,09:20,21/09/2026,10:55,01h 35m,0,-,5634
+bang_mum_21.csv,2026-09-21,IndiGo,6E-5089,Bengaluru(BLR),Mumbai(BOM),21/09/2026,05:30,21/09/2026,07:15,01h 45m,0,-,6159
+bang_mum_21.csv,2026-09-21,Air India,AI-2642,Bengaluru(BLR),Mumbai(BOM),21/09/2026,21:30,21/09/2026,23:35,02h 05m,0,-,6977
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6554,Bengaluru(BLR),Navi Mumbai(NMI),21/09/2026,19:15,21/09/2026,23:00,03h 45m,1,Goa,7270
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6168,Bengaluru(BLR),Navi Mumbai(NMI),21/09/2026,17:40,21/09/2026,23:00,05h 20m,1,Goa,7270
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6753,Bengaluru(BLR),Navi Mumbai(NMI),21/09/2026,15:15,21/09/2026,23:00,07h 45m,1,Goa,7270
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6653,Bengaluru(BLR),Navi Mumbai(NMI),21/09/2026,12:35,21/09/2026,23:00,10h 25m,1,Goa,7270
+bang_mum_21.csv,2026-09-21,Akasa Air,QP-1515,Bengaluru(BLR),Mumbai(BOM),21/09/2026,06:20,21/09/2026,08:00,01h 40m,0,-,7287
+bang_mum_21.csv,2026-09-21,IndiGo,6E-5376,Bengaluru(BLR),Mumbai(BOM),21/09/2026,20:15,21/09/2026,22:00,01h 45m,0,-,7297
+bang_mum_21.csv,2026-09-21,IndiGo,6E-5255,Bengaluru(BLR),Mumbai(BOM),21/09/2026,17:25,21/09/2026,19:05,01h 40m,0,-,7297
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6753,Bengaluru(BLR),Mumbai(BOM),21/09/2026,15:15,21/09/2026,19:55,04h 40m,1,Goa,7308
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6653,Bengaluru(BLR),Mumbai(BOM),21/09/2026,12:35,21/09/2026,17:50,05h 15m,1,Goa,7308
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6554,Bengaluru(BLR),Mumbai(BOM),21/09/2026,19:15,22/09/2026,01:25,06h 10m,1,Goa,7308
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6067,Bengaluru(BLR),Mumbai(BOM),21/09/2026,16:30,21/09/2026,20:30,04h 00m,1,Hyderabad,7439
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6162,Bengaluru(BLR),Mumbai(BOM),21/09/2026,18:50,21/09/2026,22:50,04h 00m,1,Mangalore,7439
+bang_mum_21.csv,2026-09-21,IndiGo,6E-109,Bengaluru(BLR),Mumbai(BOM),21/09/2026,17:00,21/09/2026,22:50,05h 50m,1,Mangalore,7439
+bang_mum_21.csv,2026-09-21,IndiGo,6E-855,Bengaluru(BLR),Mumbai(BOM),21/09/2026,19:45,22/09/2026,01:00,05h 15m,1,Hyderabad,7439
+bang_mum_21.csv,2026-09-21,IndiGo,6E-537,Bengaluru(BLR),Mumbai(BOM),21/09/2026,10:15,21/09/2026,15:55,05h 40m,1,Hyderabad,7439
+bang_mum_21.csv,2026-09-21,IndiGo,6E-638,Bengaluru(BLR),Mumbai(BOM),21/09/2026,18:35,22/09/2026,01:00,06h 25m,1,Hyderabad,7439
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6784,Bengaluru(BLR),Mumbai(BOM),21/09/2026,21:30,22/09/2026,04:35,07h 05m,1,Hyderabad,7439
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6891,Bengaluru(BLR),Mumbai(BOM),21/09/2026,17:15,21/09/2026,22:20,05h 05m,1,Nagpur,7570
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6863,Bengaluru(BLR),Mumbai(BOM),21/09/2026,08:20,21/09/2026,13:45,05h 25m,1,Nagpur,7570
+bang_mum_21.csv,2026-09-21,Akasa Air,QP-1517,Bengaluru(BLR),Mumbai(BOM),21/09/2026,07:40,21/09/2026,09:25,01h 45m,0,-,7583
+bang_mum_21.csv,2026-09-21,Air India,AI-2854,Bengaluru(BLR),Mumbai(BOM),21/09/2026,18:05,21/09/2026,20:05,02h 00m,0,-,7591
+bang_mum_21.csv,2026-09-21,Air India,AI-2610,Bengaluru(BLR),Mumbai(BOM),21/09/2026,19:00,21/09/2026,21:05,02h 05m,0,-,7591
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6283,Bengaluru(BLR),Mumbai(BOM),21/09/2026,19:05,21/09/2026,20:40,01h 35m,0,-,7612
+bang_mum_21.csv,2026-09-21,IndiGo,6E-5351,Bengaluru(BLR),Mumbai(BOM),21/09/2026,14:20,21/09/2026,16:05,01h 45m,0,-,7612
+bang_mum_21.csv,2026-09-21,IndiGo,6E-5069,Bengaluru(BLR),Mumbai(BOM),21/09/2026,11:30,21/09/2026,13:20,01h 50m,0,-,7612
+bang_mum_21.csv,2026-09-21,IndiGo,6E-5031,Bengaluru(BLR),Mumbai(BOM),21/09/2026,16:00,21/09/2026,17:45,01h 45m,0,-,7612
+bang_mum_21.csv,2026-09-21,IndiGo,6E-5237,Bengaluru(BLR),Mumbai(BOM),21/09/2026,10:15,21/09/2026,12:05,01h 50m,0,-,7612
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6423,Bengaluru(BLR),Mumbai(BOM),21/09/2026,20:00,22/09/2026,00:30,04h 30m,1,Ahmedabad,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6077,Bengaluru(BLR),Mumbai(BOM),21/09/2026,20:20,22/09/2026,00:30,04h 10m,1,Chennai,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-904,Bengaluru(BLR),Mumbai(BOM),21/09/2026,10:45,21/09/2026,14:45,04h 00m,1,Chennai,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6595,Bengaluru(BLR),Mumbai(BOM),21/09/2026,13:55,21/09/2026,18:25,04h 30m,1,Ahmedabad,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-586,Bengaluru(BLR),Mumbai(BOM),21/09/2026,05:10,21/09/2026,10:30,05h 20m,1,Ahmedabad,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-763,Bengaluru(BLR),Mumbai(BOM),21/09/2026,07:05,21/09/2026,12:50,05h 45m,1,Kochi,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6269,Bengaluru(BLR),Mumbai(BOM),21/09/2026,07:15,21/09/2026,13:00,05h 45m,1,Chennai,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-904,Bengaluru(BLR),Mumbai(BOM),21/09/2026,10:45,21/09/2026,16:40,05h 55m,1,Chennai,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6208,Bengaluru(BLR),Mumbai(BOM),21/09/2026,12:45,21/09/2026,18:40,05h 55m,1,Chennai,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-2138,Bengaluru(BLR),Mumbai(BOM),21/09/2026,15:50,21/09/2026,22:00,06h 10m,1,Kochi,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-239,Bengaluru(BLR),Mumbai(BOM),21/09/2026,16:50,21/09/2026,23:00,06h 10m,1,Ahmedabad,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6017,Bengaluru(BLR),Mumbai(BOM),21/09/2026,18:15,22/09/2026,00:30,06h 15m,1,Chennai,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6423,Bengaluru(BLR),Mumbai(BOM),21/09/2026,20:00,22/09/2026,02:55,06h 55m,1,Ahmedabad,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6445,Bengaluru(BLR),Mumbai(BOM),21/09/2026,10:25,21/09/2026,17:05,06h 40m,1,Kochi,7649
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6562,Bengaluru(BLR),Mumbai(BOM),21/09/2026,21:50,22/09/2026,04:45,06h 55m,1,Chennai,7649
+bang_mum_21.csv,2026-09-21,Air India,AI-2411,Bengaluru(BLR),Mumbai(BOM),21/09/2026,08:20,21/09/2026,10:20,02h 00m,0,-,7662
+bang_mum_21.csv,2026-09-21,IndiGo,6E-747,Bengaluru(BLR),Mumbai(BOM),21/09/2026,17:55,21/09/2026,23:45,05h 50m,1,Indore,7780
+bang_mum_21.csv,2026-09-21,Air India,AI-2850,Bengaluru(BLR),Mumbai(BOM),21/09/2026,20:30,21/09/2026,22:40,02h 10m,0,-,7790
+bang_mum_21.csv,2026-09-21,IndiGo,6E-7162,Bengaluru(BLR),Mumbai(BOM),21/09/2026,15:20,21/09/2026,21:20,06h 00m,1,Hubli,7849
+bang_mum_21.csv,2026-09-21,Air India Express,IX-2678,Bengaluru(BLR),Mumbai(BOM),21/09/2026,05:30,21/09/2026,10:15,04h 45m,1,Kochi,8093
+bang_mum_21.csv,2026-09-21,Air India Express,IX-2608,Bengaluru(BLR),Mumbai(BOM),21/09/2026,16:15,22/09/2026,01:15,09h 00m,1,Kochi,8093
+bang_mum_21.csv,2026-09-21,Air India Express,IX-1893,Bengaluru(BLR),Mumbai(BOM),21/09/2026,08:40,21/09/2026,18:35,09h 55m,1,Kochi,8093
+bang_mum_21.csv,2026-09-21,Air India Express,IX-2678,Bengaluru(BLR),Mumbai(BOM),21/09/2026,05:30,21/09/2026,18:35,13h 05m,1,Kochi,8093
+bang_mum_21.csv,2026-09-21,IndiGo,6E-5051,Bengaluru(BLR),Mumbai(BOM),21/09/2026,08:30,21/09/2026,10:15,01h 45m,0,-,8032
+bang_mum_21.csv,2026-09-21,IndiGo,6E-5216,Bengaluru(BLR),Mumbai(BOM),21/09/2026,07:25,21/09/2026,09:10,01h 45m,0,-,8032
+bang_mum_21.csv,2026-09-21,Air India,AI-2630,Bengaluru(BLR),Mumbai(BOM),21/09/2026,12:05,21/09/2026,14:05,02h 00m,0,-,8111
+bang_mum_21.csv,2026-09-21,IndiGo,6E-7005,Bengaluru(BLR),Mumbai(BOM),21/09/2026,08:05,21/09/2026,12:50,04h 45m,1,Kochi,8191
+bang_mum_21.csv,2026-09-21,Akasa Air,QP-1528,Bengaluru(BLR),Mumbai(BOM),21/09/2026,10:20,21/09/2026,12:10,01h 50m,0,-,8218
+bang_mum_21.csv,2026-09-21,Air India,AI-2604,Bengaluru(BLR),Mumbai(BOM),21/09/2026,09:15,21/09/2026,11:15,02h 00m,0,-,8246
+bang_mum_21.csv,2026-09-21,IndiGo,6E-7445,Bengaluru(BLR),Navi Mumbai(NMI),21/09/2026,15:20,21/09/2026,21:50,06h 30m,1,Kolhapur,8519
+bang_mum_21.csv,2026-09-21,IndiGo,6E-312,Bengaluru(BLR),Mumbai(BOM),21/09/2026,09:15,21/09/2026,15:55,06h 40m,1,Hyderabad,8572
+bang_mum_21.csv,2026-09-21,Air India,AI-2852,Bengaluru(BLR),Mumbai(BOM),21/09/2026,10:30,21/09/2026,12:35,02h 05m,0,-,8611
+bang_mum_21.csv,2026-09-21,Air India,AI-2402,Bengaluru(BLR),Mumbai(BOM),21/09/2026,06:35,21/09/2026,08:35,02h 00m,0,-,9044
+bang_mum_21.csv,2026-09-21,Air India,AI-9840,Bengaluru(BLR),Mumbai(BOM),21/09/2026,06:10,21/09/2026,20:10,14h 00m,1,Vijayawada,9906
+bang_mum_21.csv,2026-09-21,Air India,AI-9524,Bengaluru(BLR),Mumbai(BOM),21/09/2026,17:15,22/09/2026,08:30,15h 15m,1,Goa,9938
+bang_mum_21.csv,2026-09-21,Air India Express,IX-2116,Bengaluru(BLR),Mumbai(BOM),21/09/2026,21:00,22/09/2026,10:15,13h 15m,1,Kochi,10330
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6012,Bengaluru(BLR),Mumbai(BOM),21/09/2026,19:30,22/09/2026,00:30,05h 00m,1,Chennai,10901
+bang_mum_21.csv,2026-09-21,Air India,AI-9455,Bengaluru(BLR),Mumbai(BOM),21/09/2026,08:40,21/09/2026,15:00,06h 20m,1,Kochi,11040
+bang_mum_21.csv,2026-09-21,Air India,AI-9451,Bengaluru(BLR),Mumbai(BOM),21/09/2026,05:30,21/09/2026,12:30,07h 00m,1,Kochi,11040
+bang_mum_21.csv,2026-09-21,Air India,AI-9451,Bengaluru(BLR),Mumbai(BOM),21/09/2026,05:30,21/09/2026,15:00,09h 30m,1,Kochi,11040
+bang_mum_21.csv,2026-09-21,Air India,AI-9568,Bengaluru(BLR),Mumbai(BOM),21/09/2026,17:15,22/09/2026,00:15,07h 00m,1,Hyderabad,11188
+bang_mum_21.csv,2026-09-21,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),21/09/2026,14:45,21/09/2026,19:10,04h 25m,1,Chennai,11284
+bang_mum_21.csv,2026-09-21,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),21/09/2026,12:40,21/09/2026,18:20,05h 40m,1,Chennai,11284
+bang_mum_21.csv,2026-09-21,Air India,AI-9426,Bengaluru(BLR),Mumbai(BOM),21/09/2026,12:40,21/09/2026,19:10,06h 30m,1,Chennai,11284
+bang_mum_21.csv,2026-09-21,Air India,AI-9970,Bengaluru(BLR),Mumbai(BOM),21/09/2026,14:45,21/09/2026,23:30,08h 45m,1,Chennai,11284
+bang_mum_21.csv,2026-09-21,Air India,AI-9478,Bengaluru(BLR),Mumbai(BOM),21/09/2026,22:10,22/09/2026,08:15,10h 05m,1,Chennai,11284
+bang_mum_21.csv,2026-09-21,Air India,AI-9453,Bengaluru(BLR),Mumbai(BOM),21/09/2026,21:00,22/09/2026,12:30,15h 30m,1,Kochi,11346
+bang_mum_21.csv,2026-09-21,Air India,AI-9568,Bengaluru(BLR),Mumbai(BOM),21/09/2026,17:15,21/09/2026,22:30,05h 15m,1,Hyderabad,11458
+bang_mum_21.csv,2026-09-21,Air India,AI-9566,Bengaluru(BLR),Mumbai(BOM),21/09/2026,19:15,22/09/2026,00:15,05h 00m,1,Hyderabad,11588
+bang_mum_21.csv,2026-09-21,Air India,AI-9524,Bengaluru(BLR),Mumbai(BOM),21/09/2026,17:15,21/09/2026,23:10,05h 55m,1,Goa,11610
+bang_mum_21.csv,2026-09-21,IndiGo,6E-537,Bengaluru(BLR),Mumbai(BOM),21/09/2026,10:15,21/09/2026,14:25,04h 10m,1,Hyderabad,12447
+bang_mum_21.csv,2026-09-21,Air India,AI-9434,Bengaluru(BLR),Mumbai(BOM),21/09/2026,06:15,21/09/2026,13:40,07h 25m,1,Ahmedabad,13012
+bang_mum_21.csv,2026-09-21,Air India,AI-9605,Bengaluru(BLR),Mumbai(BOM),21/09/2026,14:25,21/09/2026,20:00,05h 35m,1,Indore,13087
+bang_mum_21.csv,2026-09-21,IndiGo,6E-312,Bengaluru(BLR),Mumbai(BOM),21/09/2026,09:15,21/09/2026,14:25,05h 10m,1,Hyderabad,13449
+bang_mum_21.csv,2026-09-21,Air India Express,IX-1539,Bengaluru(BLR),Mumbai(BOM),21/09/2026,05:20,21/09/2026,15:40,10h 20m,1,Goa,14120
+bang_mum_21.csv,2026-09-21,Air India Express,IX-1539,Bengaluru(BLR),Mumbai(BOM),21/09/2026,05:20,21/09/2026,19:50,14h 30m,1,Goa,14152
+bang_mum_21.csv,2026-09-21,Air India Express,IX-1386,Bengaluru(BLR),Mumbai(BOM),21/09/2026,13:05,21/09/2026,19:50,06h 45m,1,Goa,14764
+bang_mum_21.csv,2026-09-21,IndiGo,6E-484,Bengaluru(BLR),Mumbai(BOM),21/09/2026,08:15,21/09/2026,14:25,06h 10m,1,Hyderabad,15736
+bang_mum_21.csv,2026-09-21,Air India,AI-9898,Bengaluru(BLR),Mumbai(BOM),21/09/2026,10:20,21/09/2026,16:50,06h 30m,1,Patna,17035
+bang_mum_21.csv,2026-09-21,Air India,AI-9520,Bengaluru(BLR),Mumbai(BOM),21/09/2026,13:05,21/09/2026,18:55,05h 50m,1,Goa,17604
+bang_mum_21.csv,2026-09-21,Air India,AI-9437,Bengaluru(BLR),Mumbai(BOM),21/09/2026,07:05,21/09/2026,13:35,06h 30m,1,Kolkata,17843
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6178,Bengaluru(BLR),Mumbai(BOM),21/09/2026,06:25,21/09/2026,10:55,04h 30m,1,Hyderabad,17876
+bang_mum_21.csv,2026-09-21,IndiGo,6E-6653,Bengaluru(BLR),Navi Mumbai(NMI),21/09/2026,12:35,21/09/2026,18:55,06h 20m,1,Goa,18453
+bang_mum_21.csv,2026-09-21,Air India,AI-9457,Bengaluru(BLR),Mumbai(BOM),21/09/2026,16:15,21/09/2026,22:25,06h 10m,1,Kochi,18465
+bang_mum_21.csv,2026-09-21,Air India,AI-9708,Bengaluru(BLR),Mumbai(BOM),21/09/2026,10:05,21/09/2026,15:40,05h 35m,1,Jaipur,21392
+bang_mum_21.csv,2026-09-21,Air India,AI-9602,Bengaluru(BLR),Mumbai(BOM),21/09/2026,09:15,21/09/2026,17:25,08h 10m,1,Dehra Dun,23535
